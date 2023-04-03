@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F5143F2929DABCA9007AA574 /* UNNotificationCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5143F2829DABCA9007AA574 /* UNNotificationCenter.swift */; };
 		F54444BB29D5EE6800AB30C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54444BA29D5EE6800AB30C1 /* AppDelegate.swift */; };
 		F54444BD29D5EE6800AB30C1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54444BC29D5EE6800AB30C1 /* SceneDelegate.swift */; };
 		F54444C229D5EE6800AB30C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F54444C029D5EE6800AB30C1 /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F5143F2829DABCA9007AA574 /* UNNotificationCenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UNNotificationCenter.swift; sourceTree = "<group>"; };
 		F54444B729D5EE6800AB30C1 /* DrinkWater.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DrinkWater.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F54444BA29D5EE6800AB30C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F54444BC29D5EE6800AB30C1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				F54444C829D5EE6800AB30C1 /* Info.plist */,
 				F54444DC29D6003900AB30C1 /* swift */,
 				F54444D329D5F8DA00AB30C1 /* AlertListCell.xib */,
+				F5143F2829DABCA9007AA574 /* UNNotificationCenter.swift */,
 			);
 			path = DrinkWater;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 				F54444BD29D5EE6800AB30C1 /* SceneDelegate.swift in Sources */,
 				F54444D429D5F8DA00AB30C1 /* AlertListCell.swift in Sources */,
 				F54444D729D5FB0F00AB30C1 /* Alert.swift in Sources */,
+				F5143F2929DABCA9007AA574 /* UNNotificationCenter.swift in Sources */,
 				F54444D129D5F87600AB30C1 /* AlertListViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
