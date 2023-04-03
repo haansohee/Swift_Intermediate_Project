@@ -93,15 +93,24 @@ extension AlertListViewController {
     
     override func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCell.EditingStyle, forRowAt indexPath: IndexPath) {
         switch editingStyle {
-        case .delete:
-            self.alerts.remove(at: indexPath.row)
-            UserDefaults.standard.set(try?PropertyListEncoder().encode(self.alerts), forKey: "alerts")
-            // 알림도 삭제해 주기
-//            userNotificationCenter.removePendingNotificationRequests(withIdentifiers: [alerts[indexPath.row].id])
-            self.tableView.reloadData()
-        return
-        default:
-            break
+            case .delete:
+                // alerts가 비어 있지 않은지 확인
+                guard !alerts.isEmpty else {
+                    return
+                }
+                // check if indexPath.row is within alerts' indices
+                guard indexPath.row < alerts.count else {
+                    return
+                }
+                let removedAlert = alerts.remove(at: indexPath.row)
+                UserDefaults.standard.set(try? PropertyListEncoder().encode(alerts), forKey: "alerts")
+                // 알림도 삭제해 주기
+                userNotificationCenter.removePendingNotificationRequests(withIdentifiers: [removedAlert.id])
+                self.tableView.reloadData()
+            return
+            default:
+                break
+            
         }
     }
 }

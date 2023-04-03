@@ -23,6 +23,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // 사용자에게 알림 허용을 받는 코드 authrizationOptions
         let authrizationOptions = UNAuthorizationOptions(arrayLiteral: [.alert, .badge, .sound])
         
+        // userNotificationCenter 초기화
+        self.userNotificationCenter = UNUserNotificationCenter.current()
+        
         userNotificationCenter?.requestAuthorization(options: authrizationOptions) { _, error in
             if let error = error {
                 print("ERROR: notification authrization request \(error.localizedDescription)")
