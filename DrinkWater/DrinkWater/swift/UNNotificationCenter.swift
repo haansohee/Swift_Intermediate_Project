@@ -18,7 +18,15 @@ extension UNUserNotificationCenter {
         content.sound = .default
         content.badge = 1
         
+        // 트리거 설정
         let component = Calendar.current.dateComponents([.hour, .minute], from: alert.date)
         let trigger = UNCalendarNotificationTrigger(dateMatching: component, repeats: alert.isOn)
+        
+        // Request 설정
+        let request = UNNotificationRequest(identifier: alert.id, content: content, trigger: trigger)
+        
+        // 이제 로컬 알림 추가 함수를 로컬 알림이 추가되는 데에 각각 추가해 주면 댐 -> swtich가 on 되는 곳, 새로운 알림이 추가되는 곳
+        self.add(request, withCompletionHandler: nil)
+        
     }
 }

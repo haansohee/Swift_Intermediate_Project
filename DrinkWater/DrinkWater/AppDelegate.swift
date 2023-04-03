@@ -12,18 +12,20 @@ import UserNotifications
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-    let userNotificationCenter: UNUserNotificationCenter? = nil
+    var userNotificationCenter: UNUserNotificationCenter?
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        
         // notification 델리게이트 선언
         UNUserNotificationCenter.current().delegate = self
         
         // 사용자에게 알림 허용을 받는 코드 authrizationOptions
         let authrizationOptions = UNAuthorizationOptions(arrayLiteral: [.alert, .badge, .sound])
+        
         userNotificationCenter?.requestAuthorization(options: authrizationOptions) { _, error in
             if let error = error {
-                print("ERROR : notification authrization request \(error.localizedDescription)")
+                print("ERROR: notification authrization request \(error.localizedDescription)")
             }
         }
         return true
@@ -36,13 +38,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didDiscardSceneSessions sceneSessions: Set<UISceneSession>) {
     
     }
-
-
 }
 
-
 extension AppDelegate: UNUserNotificationCenterDelegate {
-    // notificationCenter를 보내기 전에 어떻게 핸들링 할 것인지
+    // notificationCenter를 보내기 전에 어떤 핸들링 할 것인지
     func userNotificationCenter(_ center: UNUserNotificationCenter, willPresent notification: UNNotification, withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void) {
         completionHandler([.banner, .list, .badge, .sound])
     }

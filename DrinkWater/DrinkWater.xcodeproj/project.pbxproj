@@ -74,7 +74,6 @@
 				F54444C829D5EE6800AB30C1 /* Info.plist */,
 				F54444DC29D6003900AB30C1 /* swift */,
 				F54444D329D5F8DA00AB30C1 /* AlertListCell.xib */,
-				F5143F2829DABCA9007AA574 /* UNNotificationCenter.swift */,
 			);
 			path = DrinkWater;
 			sourceTree = "<group>";
@@ -82,6 +81,7 @@
 		F54444DC29D6003900AB30C1 /* swift */ = {
 			isa = PBXGroup;
 			children = (
+				F5143F2829DABCA9007AA574 /* UNNotificationCenter.swift */,
 				F54444D029D5F87600AB30C1 /* AlertListViewController.swift */,
 				F54444D229D5F8DA00AB30C1 /* AlertListCell.swift */,
 				F54444D629D5FB0F00AB30C1 /* Alert.swift */,
