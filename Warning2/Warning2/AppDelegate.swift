@@ -51,7 +51,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
         
         UNUserNotificationCenter.current().getNotificationSettings { settings in
-            
             print("Notification settings: \(settings)")
         }
         
@@ -85,3 +84,5 @@ extension AppDelegate: MessagingDelegate {
         print("FCM 등록 토근 갱신: \(token)")
     }
 }
+
+
