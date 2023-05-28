@@ -1,0 +1,77 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "1f00b8ebb0163c7b1cc38d1ae96b47f9807008df6448e3f680fe4d2f481d01b1"
+build_start_time: [1685281995, 742905000]
+build_end_time: [1685281997, 110831000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/Constraint.swift": [1685281989, 235397635]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintAttributes.swift"
+  : [1685281989, 235497843]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintConfig.swift"
+  : [1685281989, 235585718]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift"
+  : [1685281989, 235690677]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintDSL.swift"
+  : [1685281989, 235790635]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintDescription.swift"
+  : [1685281989, 235928260]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift"
+  : [1685281989, 236015427]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift"
+  : [1685281989, 236092386]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift"
+  : [1685281989, 236169761]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsets.swift"
+  : [1685281989, 236253344]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintItem.swift"
+  : [1685281989, 236347761]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift"
+  : [1685281989, 236428678]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift"
+  : [1685281989, 236501178]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift"
+  : [1685281989, 236672220]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift"
+  : [1685281989, 236739053]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift"
+  : [1685281989, 236800095]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintMaker.swift"
+  : [1685281989, 236869053]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift"
+  : [1685281989, 236945928]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift"
+  : [1685281989, 237016095]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift"
+  : [1685281989, 237084970]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift"
+  : [1685281989, 237169804]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift"
+  : [1685281989, 237258720]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift"
+  : [1685281989, 237367345]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift"
+  : [1685281989, 237443804]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift"
+  : [1685281989, 237513762]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriority.swift"
+  : [1685281989, 237579637]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift"
+  : [1685281989, 237647721]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift"
+  : [1685281989, 237723679]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelation.swift"
+  : [1685281989, 237803971]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift"
+  : [1685281989, 237906888]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintView.swift"
+  : [1685281989, 238029680]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/ConstraintViewDSL.swift"
+  : [1685281989, 238131513]
+  "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/Debugging.swift": [1685281989, 238210305]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraint.swift"
+  : [1685281989, 238287263]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraintItem.swift"
+  : [1685281989, 238376680]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/Typealiases.swift"
+  : [1685281989, 238434805]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift"
+  : [1685281989, 238496889]

@@ -1,0 +1,35 @@
+"/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/Runtime.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Runtime.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Runtime.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Runtime.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Runtime.swiftdeps"
+"/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Views/AnimatedImageView.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AnimatedImageView.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AnimatedImageView.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AnimatedImageView.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AnimatedImageView.d"
+"/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/SizeExtensions.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SizeExtensions.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SizeExtensions.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SizeExtensions.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SizeExtensions.o"
+"/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/String+MD5.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/String+MD5.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/String+MD5.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/String+MD5.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/String+MD5.o"
+"/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/Result.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Result.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Result.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Result.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Result.swiftdeps"
+"/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/ExtensionHelpers.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ExtensionHelpers.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ExtensionHelpers.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ExtensionHelpers.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ExtensionHelpers.d"
+"/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Views/Indicator.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Indicator.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Indicator.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Indicator.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Indicator.dia"

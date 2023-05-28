@@ -1,0 +1,35 @@
+"/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageProtocol.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageProtocol.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageProtocol.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageProtocol.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageProtocol.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImage.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImage.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImage.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImage.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImage.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/Delegate.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Delegate.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Delegate.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Delegate.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Delegate.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/Box.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Box.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Box.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Box.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Box.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageOptions.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageOptions.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageOptions.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageOptions.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageOptions.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/CallbackQueue.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/CallbackQueue.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/CallbackQueue.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/CallbackQueue.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/CallbackQueue.d"
+"/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageRenderer.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageRenderer.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageRenderer.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageRenderer.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/KFImageRenderer.swiftdeps"

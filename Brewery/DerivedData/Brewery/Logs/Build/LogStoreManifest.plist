@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>02087EEA-0ED2-46E3-BCFF-D630C34191F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>02087EEA-0ED2-46E3-BCFF-D630C34191F4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Brewery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Brewery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Brewery</string>
+			<key>timeStartedRecording</key>
+			<real>706990056.39467597</real>
+			<key>timeStoppedRecording</key>
+			<real>706990057.34455097</real>
+			<key>title</key>
+			<string>Build Brewery</string>
+			<key>uniqueIdentifier</key>
+			<string>02087EEA-0ED2-46E3-BCFF-D630C34191F4</string>
+		</dict>
+		<key>083587C2-8101-47CB-99B0-FA152A4FF593</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>083587C2-8101-47CB-99B0-FA152A4FF593.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Brewery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Brewery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Brewery</string>
+			<key>timeStartedRecording</key>
+			<real>706989899.43537199</real>
+			<key>timeStoppedRecording</key>
+			<real>706989900.03356397</real>
+			<key>title</key>
+			<string>Build Brewery</string>
+			<key>uniqueIdentifier</key>
+			<string>083587C2-8101-47CB-99B0-FA152A4FF593</string>
+		</dict>
+		<key>1DDB9212-022A-40DC-A6BF-8FFE3AB93030</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1DDB9212-022A-40DC-A6BF-8FFE3AB93030.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Brewery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Brewery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Brewery</string>
+			<key>timeStartedRecording</key>
+			<real>706989711.14321101</real>
+			<key>timeStoppedRecording</key>
+			<real>706989711.88047099</real>
+			<key>title</key>
+			<string>Build Brewery</string>
+			<key>uniqueIdentifier</key>
+			<string>1DDB9212-022A-40DC-A6BF-8FFE3AB93030</string>
+		</dict>
+		<key>207F0423-8276-48F4-A150-5369AA7F2FF2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>207F0423-8276-48F4-A150-5369AA7F2FF2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Brewery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Brewery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Brewery</string>
+			<key>timeStartedRecording</key>
+			<real>706990065.69236505</real>
+			<key>timeStoppedRecording</key>
+			<real>706990066.27353501</real>
+			<key>title</key>
+			<string>Build Brewery</string>
+			<key>uniqueIdentifier</key>
+			<string>207F0423-8276-48F4-A150-5369AA7F2FF2</string>
+		</dict>
+		<key>21D5B47C-591F-4F0C-9052-013E03DFFB61</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>21D5B47C-591F-4F0C-9052-013E03DFFB61.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Brewery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Brewery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Brewery</string>
+			<key>timeStartedRecording</key>
+			<real>706990172.71200204</real>
+			<key>timeStoppedRecording</key>
+			<real>706990173.34217894</real>
+			<key>title</key>
+			<string>Build Brewery</string>
+			<key>uniqueIdentifier</key>
+			<string>21D5B47C-591F-4F0C-9052-013E03DFFB61</string>
+		</dict>
+		<key>2B2F46A6-BAB1-4EC3-A790-7BADA651C04D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2B2F46A6-BAB1-4EC3-A790-7BADA651C04D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Brewery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Brewery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Brewery</string>
+			<key>timeStartedRecording</key>
+			<real>706989822.17707098</real>
+			<key>timeStoppedRecording</key>
+			<real>706989822.93226004</real>
+			<key>title</key>
+			<string>Build Brewery</string>
+			<key>uniqueIdentifier</key>
+			<string>2B2F46A6-BAB1-4EC3-A790-7BADA651C04D</string>
+		</dict>
+		<key>2DA2DD08-85E2-4125-8C73-BD0C42F1C2F7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2DA2DD08-85E2-4125-8C73-BD0C42F1C2F7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Brewery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Brewery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Brewery</string>
+			<key>timeStartedRecording</key>
+			<real>706991649.975932</real>
+			<key>timeStoppedRecording</key>
+			<real>706991651.13737905</real>
+			<key>title</key>
+			<string>Build Brewery</string>
+			<key>uniqueIdentifier</key>
+			<string>2DA2DD08-85E2-4125-8C73-BD0C42F1C2F7</string>
+		</dict>
+		<key>408B703A-ED64-4B04-B605-3AAADB6074AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>408B703A-ED64-4B04-B605-3AAADB6074AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Brewery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Brewery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Brewery</string>
+			<key>timeStartedRecording</key>
+			<real>706989503.29709005</real>
+			<key>timeStoppedRecording</key>
+			<real>706989504.39702702</real>
+			<key>title</key>
+			<string>Build Brewery</string>
+			<key>uniqueIdentifier</key>
+			<string>408B703A-ED64-4B04-B605-3AAADB6074AD</string>
+		</dict>
+		<key>5EFFCB2B-FDFA-4A9C-9F5C-9AD675E05864</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5EFFCB2B-FDFA-4A9C-9F5C-9AD675E05864.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Brewery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Brewery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Brewery</string>
+			<key>timeStartedRecording</key>
+			<real>706990036.89103699</real>
+			<key>timeStoppedRecording</key>
+			<real>706990038.160815</real>
+			<key>title</key>
+			<string>Build Brewery</string>
+			<key>uniqueIdentifier</key>
+			<string>5EFFCB2B-FDFA-4A9C-9F5C-9AD675E05864</string>
+		</dict>
+		<key>60F1151B-DE8E-4158-8B2E-719AC47E2D86</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>60F1151B-DE8E-4158-8B2E-719AC47E2D86.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Brewery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Brewery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Brewery</string>
+			<key>timeStartedRecording</key>
+			<real>706989615.93355596</real>
+			<key>timeStoppedRecording</key>
+			<real>706989616.883026</real>
+			<key>title</key>
+			<string>Build Brewery</string>
+			<key>uniqueIdentifier</key>
+			<string>60F1151B-DE8E-4158-8B2E-719AC47E2D86</string>
+		</dict>
+		<key>97C5E810-7D39-4AE3-9ADF-DF8F40C752FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>97C5E810-7D39-4AE3-9ADF-DF8F40C752FF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Brewery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Brewery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Brewery</string>
+			<key>timeStartedRecording</key>
+			<real>706989669.28119504</real>
+			<key>timeStoppedRecording</key>
+			<real>706989670.08862102</real>
+			<key>title</key>
+			<string>Build Brewery</string>
+			<key>uniqueIdentifier</key>
+			<string>97C5E810-7D39-4AE3-9ADF-DF8F40C752FF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

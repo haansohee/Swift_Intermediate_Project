@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "2fa8a755b3f6cc3820cdfa5c7ada69f0288cab03f880d6abb01a2a8df96545ec"
+build_start_time: [1685298850, 108949000]
+build_end_time: [1685298851, 135220000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/Brewery/Brewery/AppDelegate.swift": [1685281303, 82119784]
+  "/Users/hansohee/Xcode/Intermediate_Project/Brewery/Brewery/BeerListCell.swift": [1685297371, 504482130]
+  "/Users/hansohee/Xcode/Intermediate_Project/Brewery/Brewery/SceneDelegate.swift": [1685281950, 881558398]
+  "/Users/hansohee/Xcode/Intermediate_Project/Brewery/Brewery/controller/BeerDetailViewController.swift": [1685297230, 206908769]
+  "/Users/hansohee/Xcode/Intermediate_Project/Brewery/Brewery/controller/BeerListViewController.swift": [1685298827, 676828999]
+  "/Users/hansohee/Xcode/Intermediate_Project/Brewery/Brewery/etc/Beer.swift": [1685297316, 986511110]
+  "/Users/hansohee/Xcode/Intermediate_Project/Brewery/Brewery/etc/IdentifierProtocol.swift": [1685293604, 205967067]

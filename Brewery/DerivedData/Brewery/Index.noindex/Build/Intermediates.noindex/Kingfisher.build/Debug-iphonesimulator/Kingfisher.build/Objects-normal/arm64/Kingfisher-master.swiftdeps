@@ -1,0 +1,127 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "1570251372ea6581148d539f69bd9fa9106c752d23f6a3dd7da435e8abe6f7e5"
+build_start_time: [1685282150, 129068000]
+build_end_time: [1685282153, 101143000]
+inputs:
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Cache/CacheSerializer.swift"
+  : [1685282118, 622364002]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Cache/DiskStorage.swift"
+  : [1685282118, 622488211]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Cache/FormatIndicatedCacheSerializer.swift"
+  : [1685282118, 622578169]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Cache/ImageCache.swift"
+  : [1685282118, 622736086]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Cache/MemoryStorage.swift"
+  : [1685282118, 622854336]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Cache/Storage.swift"
+  : [1685282118, 622936544]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Extensions/CPListItem+Kingfisher.swift"
+  : [1685282118, 623093378]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Extensions/ImageView+Kingfisher.swift"
+  : [1685282118, 623228045]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSButton+Kingfisher.swift"
+  : [1685282118, 623326295]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSTextAttachment+Kingfisher.swift"
+  : [1685282118, 623424045]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Extensions/TVMonogramView+Kingfisher.swift"
+  : [1685282118, 623510254]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Extensions/UIButton+Kingfisher.swift"
+  : [1685282118, 623599045]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Extensions/WKInterfaceImage+Kingfisher.swift"
+  : [1685282118, 623695254]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/AVAssetImageDataProvider.swift"
+  : [1685282118, 623873212]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/ImageDataProvider.swift"
+  : [1685282118, 623975629]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Resource.swift"
+  : [1685282118, 624086713]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Source.swift"
+  : [1685282118, 624173963]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/KF.swift"
+  : [1685282118, 624356630]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/KFOptionsSetter.swift"
+  : [1685282118, 624538713]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/Kingfisher.swift"
+  : [1685282118, 624667297]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherError.swift"
+  : [1685282118, 624815547]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherManager.swift"
+  : [1685282118, 625046297]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherOptionsInfo.swift"
+  : [1685282118, 625309047]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/Filter.swift"
+  : [1685282118, 625471298]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/GIFAnimatedImage.swift"
+  : [1685282118, 625560006]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/GraphicsContext.swift"
+  : [1685282118, 625636840]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/Image.swift"
+  : [1685282118, 625732256]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageDrawing.swift"
+  : [1685282118, 625842215]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageFormat.swift"
+  : [1685282118, 625934215]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProcessor.swift"
+  : [1685282118, 626094174]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProgressive.swift"
+  : [1685282118, 626225424]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageTransition.swift"
+  : [1685282118, 626376466]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Image/Placeholder.swift"
+  : [1685282118, 626474466]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/AuthenticationChallengeResponsable.swift"
+  : [1685282118, 627046591]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDataProcessor.swift"
+  : [1685282118, 627179133]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloader.swift"
+  : [1685282118, 627312675]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloaderDelegate.swift"
+  : [1685282118, 627424509]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageModifier.swift"
+  : [1685282118, 627554717]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImagePrefetcher.swift"
+  : [1685282118, 627800217]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/RedirectHandler.swift"
+  : [1685282118, 627936009]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/RequestModifier.swift"
+  : [1685282118, 628032509]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/RetryStrategy.swift"
+  : [1685282118, 628127218]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDataTask.swift"
+  : [1685282118, 628228135]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDelegate.swift"
+  : [1685282118, 628323885]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageBinder.swift"
+  : [1685282118, 628474260]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageContext.swift"
+  : [1685282118, 628568677]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFAnimatedImage.swift"
+  : [1685282118, 628684802]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImage.swift"
+  : [1685282118, 628766385]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageOptions.swift"
+  : [1685282118, 628861844]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageProtocol.swift"
+  : [1685282118, 628947344]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageRenderer.swift"
+  : [1685282118, 629027510]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/Box.swift"
+  : [1685282118, 629172594]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/CallbackQueue.swift"
+  : [1685282118, 629253469]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/Delegate.swift"
+  : [1685282118, 629329594]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/ExtensionHelpers.swift"
+  : [1685282118, 629410511]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/Result.swift"
+  : [1685282118, 629490511]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/Runtime.swift"
+  : [1685282118, 629575720]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/SizeExtensions.swift"
+  : [1685282118, 629652303]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Utility/String+MD5.swift"
+  : [1685282118, 629757678]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Views/AnimatedImageView.swift"
+  : [1685282118, 629939053]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/Brewery/DerivedData/Brewery/SourcePackages/checkouts/Kingfisher/Sources/Views/Indicator.swift"
+  : [1685282118, 630045137]

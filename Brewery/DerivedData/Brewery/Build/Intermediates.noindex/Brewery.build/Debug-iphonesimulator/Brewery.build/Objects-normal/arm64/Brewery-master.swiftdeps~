@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "2c6e6eca4f44afaaafd6fd20368c947288e03162ec941008ade5e75a6a7eea45"
+build_start_time: [1685281801, 189042000]
+build_end_time: [1685281801, 245721000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/Brewery/Brewery/AppDelegate.swift": !private [1685281303, 82119784]
+  "/Users/hansohee/Xcode/Intermediate_Project/Brewery/Brewery/SceneDelegate.swift": !private [1685281303, 85616413]
+  "/Users/hansohee/Xcode/Intermediate_Project/Brewery/Brewery/ViewController.swift": !private [1685281303, 86500956]
