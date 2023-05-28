@@ -1,0 +1,197 @@
+{
+  "buildCommand" : {
+    "command" : "preview"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "f275d8a201b1f3b76df2b762bbe7b5fe4ab4f6f99786dc4791a25e243e5b35f0",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Products",
+          "derivedDataPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,6",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex/Previews/NetflixStyleSampleApp/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex/Previews/NetflixStyleSampleApp/Intermediates.noindex",
+              "SYMROOT" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex/Previews/NetflixStyleSampleApp/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "A4032EF0-669B-4465-B9F8-F9DEB48E107F",
+              "TARGET_DEVICE_MODEL" : "iPhone14,6",
+              "TARGET_DEVICE_OS_VERSION" : "16.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-TARGET:SnapKit",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Products",
+          "derivedDataPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,6",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex/Previews/NetflixStyleSampleApp/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex/Previews/NetflixStyleSampleApp/Intermediates.noindex",
+              "SYMROOT" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex/Previews/NetflixStyleSampleApp/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "A4032EF0-669B-4465-B9F8-F9DEB48E107F",
+              "TARGET_DEVICE_MODEL" : "iPhone14,6",
+              "TARGET_DEVICE_OS_VERSION" : "16.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:SnapKit",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator16.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Products",
+          "derivedDataPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,6",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex/Previews/NetflixStyleSampleApp/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex/Previews/NetflixStyleSampleApp/Intermediates.noindex",
+              "SYMROOT" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex/Previews/NetflixStyleSampleApp/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "A4032EF0-669B-4465-B9F8-F9DEB48E107F",
+              "TARGET_DEVICE_MODEL" : "iPhone14,6",
+              "TARGET_DEVICE_OS_VERSION" : "16.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/NetflixStyleSampleApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Products",
+      "derivedDataPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,6",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,6",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "A4032EF0-669B-4465-B9F8-F9DEB48E107F",
+          "TARGET_DEVICE_MODEL" : "iPhone14,6",
+          "TARGET_DEVICE_OS_VERSION" : "16.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

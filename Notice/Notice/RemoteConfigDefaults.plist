@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>date</key>
+	<string>2023년 5월 11일(목) 00:00~03:00 (3시간)</string>
+	<key>detail</key>
+	<string>서비스 이용에 참고 부탁드립니다.</string>
+	<key>title</key>
+	<string>안내드립니다.</string>
+	<key>isHidden</key>
+	<true/>
+</dict>
+</plist>

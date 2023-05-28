@@ -1,0 +1,79 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "d7a54f892f08f9fc88f82bd051fa0118a08d7d137c40d60930af4944cc9b433d"
+build_start_time: [1685120055, 374653000]
+build_end_time: [1685120055, 420845000]
+inputs:
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/Constraint.swift"
+  : !private [1685117442, 81189353]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintAttributes.swift"
+  : !private [1685117442, 81281561]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintConfig.swift"
+  : !private [1685117442, 81354978]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift"
+  : !private [1685117442, 81438061]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintDSL.swift"
+  : !private [1685117442, 81520145]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintDescription.swift"
+  : !private [1685117442, 81594936]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift"
+  : !private [1685117442, 81653436]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift"
+  : !private [1685117442, 81714686]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift"
+  : !private [1685117442, 81768312]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsets.swift"
+  : !private [1685117442, 81830812]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintItem.swift"
+  : !private [1685117442, 81913062]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift"
+  : !private [1685117442, 81977770]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift"
+  : !private [1685117442, 82038229]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift"
+  : !private [1685117442, 82193604]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift"
+  : !private [1685117442, 82251104]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift"
+  : !private [1685117442, 82300520]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMaker.swift"
+  : !private [1685117442, 82361729]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift"
+  : !private [1685117442, 82429146]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift"
+  : !private [1685117442, 82499312]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift"
+  : !private [1685117442, 82570646]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift"
+  : !private [1685117442, 82648854]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift"
+  : !private [1685117442, 82745021]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift"
+  : !private [1685117442, 82826146]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift"
+  : !private [1685117442, 82893688]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift"
+  : !private [1685117442, 82952480]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriority.swift"
+  : !private [1685117442, 83015813]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift"
+  : !private [1685117442, 83079480]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift"
+  : !private [1685117442, 83143522]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelation.swift"
+  : !private [1685117442, 83213147]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift"
+  : !private [1685117442, 83306188]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintView.swift"
+  : !private [1685117442, 83368605]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintViewDSL.swift"
+  : !private [1685117442, 83460439]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/Debugging.swift"
+  : !private [1685117442, 83543231]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraint.swift"
+  : !private [1685117442, 83627106]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraintItem.swift"
+  : !private [1685117442, 83715439]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/Typealiases.swift"
+  : !private [1685117442, 83777148]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/DerivedData/NetflixStyleSampleApp/SourcePackages/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift"
+  : !private [1685117442, 83842314]

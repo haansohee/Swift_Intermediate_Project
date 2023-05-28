@@ -1,0 +1,11 @@
+Target dependency graph (6 targets)
+SnapKit in SnapKit, no dependencies
+SnapKit in SnapKit, depends on:
+SnapKit in SnapKit (explicit)
+NetflixStyleSampleApp in NetflixStyleSampleApp, depends on:
+SnapKit in SnapKit (explicit)
+SnapKit in SnapKit, no dependencies
+SnapKit in SnapKit, depends on:
+SnapKit in SnapKit (explicit)
+NetflixStyleSampleApp in NetflixStyleSampleApp, depends on:
+SnapKit in SnapKit (explicit)

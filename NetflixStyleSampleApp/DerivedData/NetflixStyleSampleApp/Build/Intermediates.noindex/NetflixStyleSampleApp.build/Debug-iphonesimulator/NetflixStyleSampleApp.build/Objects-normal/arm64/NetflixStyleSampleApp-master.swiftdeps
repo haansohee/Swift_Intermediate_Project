@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "0d2ae89b08444d9f4026cdc30047f11109dd661d2e9702ba3db2259164b975a5"
+build_start_time: [1685275767, 737582000]
+build_end_time: [1685275768, 632522000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/NetflixStyleSampleApp/AppDelegate.swift": [1685206257, 290686041]
+  "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/NetflixStyleSampleApp/Content.swift": [1685118271, 192121101]
+  "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/NetflixStyleSampleApp/ContentCollectionViewCell.swift": [1685125842, 920622288]
+  "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/NetflixStyleSampleApp/ContentCollectionViewHeader.swift": [1685125784, 404915854]
+  "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/NetflixStyleSampleApp/ContentCollectionViewMainCell.swift": [1685275703, 279955052]
+  "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/NetflixStyleSampleApp/ContentCollectionViewRankCell.swift": [1685208883, 382969531]
+  "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/NetflixStyleSampleApp/HomeViewController.swift": [1685275767, 181697038]
+  "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/NetflixStyleSampleApp/ReuseableProtocl.swift": [1685207988, 281135354]
+  "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/NetflixStyleSampleApp/SceneDelegate.swift": [1685117366, 808349208]
+  "/Users/hansohee/Xcode/Intermediate_Project/NetflixStyleSampleApp/NetflixStyleSampleApp/UIButton.swift": [1685210274, 325087903]
