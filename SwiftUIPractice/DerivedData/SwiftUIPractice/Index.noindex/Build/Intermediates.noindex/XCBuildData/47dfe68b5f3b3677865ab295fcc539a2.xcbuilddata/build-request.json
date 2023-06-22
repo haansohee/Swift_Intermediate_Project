@@ -1,0 +1,58 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "7f4506a149346cf7c0e564c5c78cd84cf3844a4314e45148cbbe9e3fb1e7cc8c"
+    }
+  ],
+  "containerPath" : "/Users/hansohee/Xcode/Intermediate_Project/SwiftUIPractice/SwiftUIPractice.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/hansohee/Xcode/Intermediate_Project/SwiftUIPractice/DerivedData/SwiftUIPractice/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/hansohee/Xcode/Intermediate_Project/SwiftUIPractice/DerivedData/SwiftUIPractice/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/hansohee/Xcode/Intermediate_Project/SwiftUIPractice/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/hansohee/Xcode/Intermediate_Project/SwiftUIPractice/DerivedData/SwiftUIPractice/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/hansohee/Xcode/Intermediate_Project/SwiftUIPractice/DerivedData/SwiftUIPractice/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/hansohee/Xcode/Intermediate_Project/SwiftUIPractice/DerivedData/SwiftUIPractice/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/hansohee/Xcode/Intermediate_Project/SwiftUIPractice/DerivedData/SwiftUIPractice/Build/Products",
+      "pchPath" : "/Users/hansohee/Xcode/Intermediate_Project/SwiftUIPractice/DerivedData/SwiftUIPractice/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

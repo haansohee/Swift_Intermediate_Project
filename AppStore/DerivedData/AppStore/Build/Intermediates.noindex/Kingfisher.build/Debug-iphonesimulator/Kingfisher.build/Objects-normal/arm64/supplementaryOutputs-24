@@ -1,0 +1,35 @@
+"/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Utility/Runtime.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Runtime.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Runtime.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Runtime.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Runtime.d"
+"/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Views/AnimatedImageView.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AnimatedImageView.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AnimatedImageView.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AnimatedImageView.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AnimatedImageView.d"
+"/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Utility/Result.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Result.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Result.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Result.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Result.swiftdeps"
+"/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Utility/String+MD5.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/String+MD5.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/String+MD5.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/String+MD5.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/String+MD5.swiftdeps"
+"/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Utility/SizeExtensions.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SizeExtensions.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SizeExtensions.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SizeExtensions.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SizeExtensions.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Views/Indicator.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Indicator.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Indicator.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Indicator.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Indicator.d"
+"/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Utility/ExtensionHelpers.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ExtensionHelpers.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ExtensionHelpers.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ExtensionHelpers.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/ExtensionHelpers.d"

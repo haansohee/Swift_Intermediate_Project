@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1300EED2-6A22-4AB9-BF72-B6E84BFEA7AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1300EED2-6A22-4AB9-BF72-B6E84BFEA7AF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AppStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AppStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AppStore</string>
+			<key>timeStartedRecording</key>
+			<real>707590067.00629103</real>
+			<key>timeStoppedRecording</key>
+			<real>707590067.05804503</real>
+			<key>title</key>
+			<string>Build AppStore</string>
+			<key>uniqueIdentifier</key>
+			<string>1300EED2-6A22-4AB9-BF72-B6E84BFEA7AF</string>
+		</dict>
+		<key>28D9F322-CE63-4C82-844D-89D25B2B19E8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>28D9F322-CE63-4C82-844D-89D25B2B19E8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AppStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AppStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AppStore</string>
+			<key>timeStartedRecording</key>
+			<real>709089285.80272603</real>
+			<key>timeStoppedRecording</key>
+			<real>709089287.10657704</real>
+			<key>title</key>
+			<string>Build AppStore</string>
+			<key>uniqueIdentifier</key>
+			<string>28D9F322-CE63-4C82-844D-89D25B2B19E8</string>
+		</dict>
+		<key>2FA53B3D-60C5-43CB-B511-40920E6C8218</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2FA53B3D-60C5-43CB-B511-40920E6C8218.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AppStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AppStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AppStore</string>
+			<key>timeStartedRecording</key>
+			<real>709086288.18062496</real>
+			<key>timeStoppedRecording</key>
+			<real>709086322.32283401</real>
+			<key>title</key>
+			<string>Build AppStore</string>
+			<key>uniqueIdentifier</key>
+			<string>2FA53B3D-60C5-43CB-B511-40920E6C8218</string>
+		</dict>
+		<key>3C42C5DC-60DA-477C-9E8E-BBBB52AE6062</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C42C5DC-60DA-477C-9E8E-BBBB52AE6062.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AppStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AppStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AppStore</string>
+			<key>timeStartedRecording</key>
+			<real>709089392.60039198</real>
+			<key>timeStoppedRecording</key>
+			<real>709089393.49235594</real>
+			<key>title</key>
+			<string>Build AppStore</string>
+			<key>uniqueIdentifier</key>
+			<string>3C42C5DC-60DA-477C-9E8E-BBBB52AE6062</string>
+		</dict>
+		<key>45712B4C-4FCF-426D-AD41-A3E68694D796</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>45712B4C-4FCF-426D-AD41-A3E68694D796.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AppStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AppStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AppStore</string>
+			<key>timeStartedRecording</key>
+			<real>709088228.49944603</real>
+			<key>timeStoppedRecording</key>
+			<real>709088229.61155295</real>
+			<key>title</key>
+			<string>Build AppStore</string>
+			<key>uniqueIdentifier</key>
+			<string>45712B4C-4FCF-426D-AD41-A3E68694D796</string>
+		</dict>
+		<key>84C2BE22-F94C-488E-8018-A888FDA62512</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>84C2BE22-F94C-488E-8018-A888FDA62512.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AppStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AppStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AppStore</string>
+			<key>timeStartedRecording</key>
+			<real>709088900.46888006</real>
+			<key>timeStoppedRecording</key>
+			<real>709088901.74020398</real>
+			<key>title</key>
+			<string>Build AppStore</string>
+			<key>uniqueIdentifier</key>
+			<string>84C2BE22-F94C-488E-8018-A888FDA62512</string>
+		</dict>
+		<key>895A55E5-4DFA-4BC8-B768-52B679F03896</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>895A55E5-4DFA-4BC8-B768-52B679F03896.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AppStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AppStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AppStore</string>
+			<key>timeStartedRecording</key>
+			<real>709088590.77478194</real>
+			<key>timeStoppedRecording</key>
+			<real>709088591.72258401</real>
+			<key>title</key>
+			<string>Build AppStore</string>
+			<key>uniqueIdentifier</key>
+			<string>895A55E5-4DFA-4BC8-B768-52B679F03896</string>
+		</dict>
+		<key>9646FE5D-F2F9-41B9-9F9E-45BB09AB314C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9646FE5D-F2F9-41B9-9F9E-45BB09AB314C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AppStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AppStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AppStore</string>
+			<key>timeStartedRecording</key>
+			<real>709087987.26093996</real>
+			<key>timeStoppedRecording</key>
+			<real>709087989.48857403</real>
+			<key>title</key>
+			<string>Build AppStore</string>
+			<key>uniqueIdentifier</key>
+			<string>9646FE5D-F2F9-41B9-9F9E-45BB09AB314C</string>
+		</dict>
+		<key>9B2F1552-3B6F-4509-9B9D-993E54CA3AD7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9B2F1552-3B6F-4509-9B9D-993E54CA3AD7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AppStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AppStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AppStore</string>
+			<key>timeStartedRecording</key>
+			<real>709088036.05434203</real>
+			<key>timeStoppedRecording</key>
+			<real>709088037.29807103</real>
+			<key>title</key>
+			<string>Build AppStore</string>
+			<key>uniqueIdentifier</key>
+			<string>9B2F1552-3B6F-4509-9B9D-993E54CA3AD7</string>
+		</dict>
+		<key>D3139F8E-525A-4422-87DD-865084BCEB84</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D3139F8E-525A-4422-87DD-865084BCEB84.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AppStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AppStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AppStore</string>
+			<key>timeStartedRecording</key>
+			<real>709086975.13150001</real>
+			<key>timeStoppedRecording</key>
+			<real>709086977.48543298</real>
+			<key>title</key>
+			<string>Build AppStore</string>
+			<key>uniqueIdentifier</key>
+			<string>D3139F8E-525A-4422-87DD-865084BCEB84</string>
+		</dict>
+		<key>DC0B4EDC-6F56-436D-9D2E-B878EC838470</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DC0B4EDC-6F56-436D-9D2E-B878EC838470.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AppStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AppStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AppStore</string>
+			<key>timeStartedRecording</key>
+			<real>709088402.59473705</real>
+			<key>timeStoppedRecording</key>
+			<real>709088404.12736201</real>
+			<key>title</key>
+			<string>Build AppStore</string>
+			<key>uniqueIdentifier</key>
+			<string>DC0B4EDC-6F56-436D-9D2E-B878EC838470</string>
+		</dict>
+		<key>FFB817E0-0569-417E-B7C5-5D50EE634820</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FFB817E0-0569-417E-B7C5-5D50EE634820.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AppStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AppStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build AppStore</string>
+			<key>timeStartedRecording</key>
+			<real>709088430.10985196</real>
+			<key>timeStoppedRecording</key>
+			<real>709088430.87250304</real>
+			<key>title</key>
+			<string>Build AppStore</string>
+			<key>uniqueIdentifier</key>
+			<string>FFB817E0-0569-417E-B7C5-5D50EE634820</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

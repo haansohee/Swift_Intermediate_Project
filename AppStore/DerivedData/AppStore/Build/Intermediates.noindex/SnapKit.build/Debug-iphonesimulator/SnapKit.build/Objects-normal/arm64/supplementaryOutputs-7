@@ -1,0 +1,20 @@
+"/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/SnapKit/Sources/ConstraintView.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.o"
+"/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/SnapKit/Sources/ConstraintViewDSL.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.swiftdeps"
+"/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.o"
+"/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/SnapKit/Sources/Debugging.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Debugging.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Debugging.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Debugging.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Debugging.d"

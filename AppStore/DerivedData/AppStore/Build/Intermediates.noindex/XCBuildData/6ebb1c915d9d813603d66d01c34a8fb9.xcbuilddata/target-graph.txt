@@ -1,0 +1,10 @@
+Target dependency graph (5 targets)
+Kingfisher in Kingfisher, no dependencies
+Kingfisher in Kingfisher, depends on:
+Kingfisher in Kingfisher (explicit)
+SnapKit in SnapKit, no dependencies
+SnapKit in SnapKit, depends on:
+SnapKit in SnapKit (explicit)
+AppStore in AppStore, depends on:
+Kingfisher in Kingfisher (explicit)
+SnapKit in SnapKit (explicit)

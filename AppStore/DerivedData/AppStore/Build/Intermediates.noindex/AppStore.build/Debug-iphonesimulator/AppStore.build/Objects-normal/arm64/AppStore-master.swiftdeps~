@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "2b09dbd8f6f931f533be42733efb611dae1ba42b8a733c4b682b156107fb932e"
+build_start_time: [1685725564, 727890000]
+build_end_time: [1685725564, 754565000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/AppDelegate.swift": !private [1685725508, 61240702]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/SceneDelegate.swift": !private [1685725508, 64640044]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/ViewController.swift": !private [1685725508, 65529713]

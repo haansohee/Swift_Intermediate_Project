@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "5a6f3d9412830f412638d4416ee723de8586fd4795907b2651cf18e8101c4fcc"
+build_start_time: [1685725012, 795984000]
+build_end_time: [1685725013, 120937000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/SwiftUIPractice/SwiftUIPractice/ContentView.swift": [1685725011, 520214118]
+  "/Users/hansohee/Xcode/Intermediate_Project/SwiftUIPractice/SwiftUIPractice/MyView.swift": [1685725000, 656554305]
+  "/Users/hansohee/Xcode/Intermediate_Project/SwiftUIPractice/SwiftUIPractice/SwiftUIPracticeApp.swift": [1685724201, 484488201]

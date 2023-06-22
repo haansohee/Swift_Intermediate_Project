@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+SwiftUIPractice in SwiftUIPractice, no dependencies
+SwiftUIPractice in SwiftUIPractice, no dependencies

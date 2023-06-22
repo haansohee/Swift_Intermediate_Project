@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "92e1f1cef02488bea3454a440fc4ba2420b9eb833db093b73cd303324048a1cf"
+build_start_time: [1687396592, 718792000]
+build_end_time: [1687396593, 489177000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/AppDelegate.swift": [1685816231, 380443408]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/Feature.swift": [1687393770, 365565884]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/RankingFeature.swift": [1687393911, 421807439]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/SceneDelegate.swift": [1685727569, 301775045]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/Scenes/App/AppViewController.swift": [1685895661, 544784992]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/Scenes/App/FeatureSectionCollectionViewCell.swift": [1687395741, 521644711]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/Scenes/App/FeatureSectionView.swift": [1687395789, 979566851]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/Scenes/App/RankingFeatureCollectionViewCell.swift": [1687396062, 259581327]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/Scenes/App/RankingFeatureSectionView.swift": [1687396128, 615371949]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/Scenes/App/SeparatorView.swift": [1685812997, 16469058]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/Scenes/App/exchangeCodeButtonView.swift": [1685895505, 804255775]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/Scenes/AppDetailViewController.swift": [1687396591, 720193289]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/Scenes/TabBarController.swift": [1685772750, 41780840]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/Scenes/Today/TodayCollectionHeaderView.swift": [1685771336, 811442980]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/Scenes/Today/TodayCollectionVeiwCell.swift": [1687395186, 177474263]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/Scenes/Today/TodayViewController.swift": [1687395366, 519745011]
+  "/Users/hansohee/Xcode/Intermediate_Project/AppStore/AppStore/Today.swift": [1687394175, 125097727]

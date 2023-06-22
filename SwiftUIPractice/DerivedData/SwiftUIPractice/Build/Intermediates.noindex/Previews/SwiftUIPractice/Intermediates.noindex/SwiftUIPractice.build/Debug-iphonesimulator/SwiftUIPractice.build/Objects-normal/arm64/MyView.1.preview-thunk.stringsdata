@@ -1,0 +1,24 @@
+{
+  "source": "/Users/hansohee/Xcode/Intermediate_Project/SwiftUIPractice/DerivedData/SwiftUIPractice/Build/Intermediates.noindex/Previews/SwiftUIPractice/Intermediates.noindex/SwiftUIPractice.build/Debug-iphonesimulator/SwiftUIPractice.build/Objects-normal/arm64/MyView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, World!"
+      },
+      {
+        "comment": "",
+        "key": "나는 담곰이야~"
+      },
+      {
+        "comment": "",
+        "key": "흠..."
+      },
+      {
+        "comment": "",
+        "key": "왜 안 떠!"
+      }
+    ]
+  },
+  "version": 1
+}

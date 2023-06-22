@@ -1,0 +1,24 @@
+{
+  "source": "/Users/hansohee/Xcode/Intermediate_Project/SwiftUIPractice/SwiftUIPractice/MyView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, World!"
+      },
+      {
+        "comment": "",
+        "key": "나는 담곰이야~"
+      },
+      {
+        "comment": "",
+        "key": "흠..."
+      },
+      {
+        "comment": "",
+        "key": "왜 안 떠!"
+      }
+    ]
+  },
+  "version": 1
+}

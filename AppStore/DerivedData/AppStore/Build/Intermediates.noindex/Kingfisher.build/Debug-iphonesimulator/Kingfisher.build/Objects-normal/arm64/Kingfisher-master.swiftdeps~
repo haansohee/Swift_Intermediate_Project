@@ -1,0 +1,127 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "9f47cef8c625043c15b256fd9d460a8db4566aeb777977b85ea4c54c3a0d4cdc"
+build_start_time: [1685725962, 644772000]
+build_end_time: [1685725962, 693535000]
+inputs:
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Cache/CacheSerializer.swift"
+  : !private [1685725801, 602812744]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Cache/DiskStorage.swift"
+  : !private [1685725801, 602929661]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Cache/FormatIndicatedCacheSerializer.swift"
+  : !private [1685725801, 603012286]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Cache/ImageCache.swift"
+  : !private [1685725801, 603164995]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Cache/MemoryStorage.swift"
+  : !private [1685725801, 603277870]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Cache/Storage.swift"
+  : !private [1685725801, 603355371]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Extensions/CPListItem+Kingfisher.swift"
+  : !private [1685725801, 603508996]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Extensions/ImageView+Kingfisher.swift"
+  : !private [1685725801, 603631038]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSButton+Kingfisher.swift"
+  : !private [1685725801, 603728455]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSTextAttachment+Kingfisher.swift"
+  : !private [1685725801, 603808580]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Extensions/TVMonogramView+Kingfisher.swift"
+  : !private [1685725801, 603889414]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Extensions/UIButton+Kingfisher.swift"
+  : !private [1685725801, 603970747]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Extensions/WKInterfaceImage+Kingfisher.swift"
+  : !private [1685725801, 604060581]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/AVAssetImageDataProvider.swift"
+  : !private [1685725801, 604200914]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/ImageDataProvider.swift"
+  : !private [1685725801, 604294623]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Resource.swift"
+  : !private [1685725801, 604382165]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Source.swift"
+  : !private [1685725801, 604453290]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/General/KF.swift"
+  : !private [1685725801, 604784999]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/General/KFOptionsSetter.swift"
+  : !private [1685725801, 604953083]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/General/Kingfisher.swift"
+  : !private [1685725801, 605071417]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherError.swift"
+  : !private [1685725801, 605191000]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherManager.swift"
+  : !private [1685725801, 605396126]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherOptionsInfo.swift"
+  : !private [1685725801, 605651710]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Image/Filter.swift"
+  : !private [1685725801, 605779752]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Image/GIFAnimatedImage.swift"
+  : !private [1685725801, 605859836]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Image/GraphicsContext.swift"
+  : !private [1685725801, 605921752]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Image/Image.swift"
+  : !private [1685725801, 606012128]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageDrawing.swift"
+  : !private [1685725801, 606122211]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageFormat.swift"
+  : !private [1685725801, 606302754]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProcessor.swift"
+  : !private [1685725801, 606480296]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProgressive.swift"
+  : !private [1685725801, 606630629]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageTransition.swift"
+  : !private [1685725801, 606724129]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Image/Placeholder.swift"
+  : !private [1685725801, 606817213]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Networking/AuthenticationChallengeResponsable.swift"
+  : !private [1685725801, 607301339]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDataProcessor.swift"
+  : !private [1685725801, 607387090]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloader.swift"
+  : !private [1685725801, 607500048]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloaderDelegate.swift"
+  : !private [1685725801, 607591382]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageModifier.swift"
+  : !private [1685725801, 607706424]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImagePrefetcher.swift"
+  : !private [1685725801, 607902216]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Networking/RedirectHandler.swift"
+  : !private [1685725801, 607998591]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Networking/RequestModifier.swift"
+  : !private [1685725801, 608077591]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Networking/RetryStrategy.swift"
+  : !private [1685725801, 608155050]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDataTask.swift"
+  : !private [1685725801, 608238384]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDelegate.swift"
+  : !private [1685725801, 608322050]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageBinder.swift"
+  : !private [1685725801, 608430634]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageContext.swift"
+  : !private [1685725801, 608499051]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFAnimatedImage.swift"
+  : !private [1685725801, 608589218]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImage.swift"
+  : !private [1685725801, 608649760]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageOptions.swift"
+  : !private [1685725801, 608724802]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageProtocol.swift"
+  : !private [1685725801, 608789927]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageRenderer.swift"
+  : !private [1685725801, 608857094]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Utility/Box.swift"
+  : !private [1685725801, 608974594]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Utility/CallbackQueue.swift"
+  : !private [1685725801, 609045094]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Utility/Delegate.swift"
+  : !private [1685725801, 609103552]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Utility/ExtensionHelpers.swift"
+  : !private [1685725801, 609170803]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Utility/Result.swift"
+  : !private [1685725801, 609242845]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Utility/Runtime.swift"
+  : !private [1685725801, 609303803]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Utility/SizeExtensions.swift"
+  : !private [1685725801, 609372387]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Utility/String+MD5.swift"
+  : !private [1685725801, 609472470]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Views/AnimatedImageView.swift"
+  : !private [1685725801, 609628471]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/AppStore/DerivedData/AppStore/SourcePackages/checkouts/Kingfisher/Sources/Views/Indicator.swift"
+  : !private [1685725801, 609715221]
