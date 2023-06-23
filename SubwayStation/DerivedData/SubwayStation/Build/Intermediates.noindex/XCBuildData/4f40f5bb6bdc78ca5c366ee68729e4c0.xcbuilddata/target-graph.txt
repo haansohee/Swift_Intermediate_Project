@@ -1,0 +1,10 @@
+Target dependency graph (5 targets)
+Alamofire in Alamofire, no dependencies
+Alamofire in Alamofire, depends on:
+Alamofire in Alamofire (explicit)
+SnapKit in SnapKit, no dependencies
+SnapKit in SnapKit, depends on:
+SnapKit in SnapKit (explicit)
+SubwayStation in SubwayStation, depends on:
+Alamofire in Alamofire (explicit)
+SnapKit in SnapKit (explicit)

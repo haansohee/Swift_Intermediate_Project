@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "919b9904790102aef1c2ddfc83a3ba5d1d52b1e3676c0d4e9dc36b03c6ec3c43"
+build_start_time: [1687488528, 777311000]
+build_end_time: [1687488529, 834561000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/SubwayStation/AppDelegate.swift": [1687401343, 634157130]
+  "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/SubwayStation/SceneDelegate.swift": [1687410060, 687819669]
+  "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/SubwayStation/Scenes/StationDetailCollectionViewCell.swift": [1687488438, 100443652]
+  "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/SubwayStation/Scenes/StationDetailViewController.swift": [1687488528, 418712168]
+  "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/SubwayStation/Scenes/StationSearchViewController.swift": [1687488077, 490773224]
+  "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/SubwayStation/StationArrivalDataResponseModel.swift": [1687485861, 574651601]
+  "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/SubwayStation/StationResponseModel.swift": [1687482292, 377313468]

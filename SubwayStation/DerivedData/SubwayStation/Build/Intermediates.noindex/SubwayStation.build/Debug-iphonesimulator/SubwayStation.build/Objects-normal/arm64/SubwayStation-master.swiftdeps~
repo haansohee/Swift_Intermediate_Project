@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "47bb187ee8eee5a324f5cd0d6e12eff8fbdbfda3ee4f7641986671b56c7702af"
+build_start_time: [1687401392, 598331000]
+build_end_time: [1687401392, 669608000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/SubwayStation/AppDelegate.swift": !private [1687401343, 634157130]
+  "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/SubwayStation/SceneDelegate.swift": !private [1687401343, 638036552]

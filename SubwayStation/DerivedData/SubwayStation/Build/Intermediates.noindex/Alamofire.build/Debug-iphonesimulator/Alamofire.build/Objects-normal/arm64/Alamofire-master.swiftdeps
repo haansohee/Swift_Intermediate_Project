@@ -1,0 +1,79 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "ad3107dbb12a82ffa1c1cd07414b6d2c8e55f41a2ae5e41b1cbe3ad74b8e3d58"
+build_start_time: [1687408188, 25477000]
+build_end_time: [1687408191, 166974000]
+inputs:
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/AFError.swift"
+  : [1687401480, 953203113]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/Alamofire.swift"
+  : [1687401480, 953441321]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/AlamofireExtended.swift"
+  : [1687401480, 953515988]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/AuthenticationInterceptor.swift"
+  : [1687401480, 953731946]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/CachedResponseHandler.swift"
+  : [1687401480, 953833197]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/Combine.swift"
+  : [1687401480, 954032322]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/Concurrency.swift"
+  : [1687401480, 954167780]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/DispatchQueue+Alamofire.swift"
+  : [1687401480, 954286614]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/EventMonitor.swift"
+  : [1687401480, 954437156]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/HTTPHeaders.swift"
+  : [1687401480, 954547239]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/HTTPMethod.swift"
+  : [1687401480, 954798948]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/MultipartFormData.swift"
+  : [1687401480, 955052198]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/MultipartUpload.swift"
+  : [1687401480, 955198990]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/NetworkReachabilityManager.swift"
+  : [1687401480, 955309657]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/Notifications.swift"
+  : [1687401480, 955534074]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/OperationQueue+Alamofire.swift"
+  : [1687401480, 955813741]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/ParameterEncoder.swift"
+  : [1687401480, 955919074]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/ParameterEncoding.swift"
+  : [1687401480, 956156408]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/Protected.swift"
+  : [1687401480, 956400575]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/RedirectHandler.swift"
+  : [1687401480, 956502700]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/Request.swift"
+  : [1687401480, 956886992]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/RequestCompression.swift"
+  : [1687401480, 957015367]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/RequestInterceptor.swift"
+  : [1687401480, 957129034]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/RequestTaskMap.swift"
+  : [1687401480, 957381368]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/Response.swift"
+  : [1687401480, 957543951]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/ResponseSerialization.swift"
+  : [1687401480, 958015369]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/Result+Alamofire.swift"
+  : [1687401480, 958221994]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/RetryPolicy.swift"
+  : [1687401480, 958373244]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/ServerTrustEvaluation.swift"
+  : [1687401480, 958645245]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/Session.swift"
+  : [1687401480, 958898036]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/SessionDelegate.swift"
+  : [1687401480, 959097787]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/StringEncoding+Alamofire.swift"
+  : [1687401480, 959277079]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/URLConvertible+URLRequestConvertible.swift"
+  : [1687401480, 959369162]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/URLEncodedFormEncoder.swift"
+  : [1687401480, 959570496]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/URLRequest+Alamofire.swift"
+  : [1687401480, 959691871]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/URLSessionConfiguration+Alamofire.swift"
+  : [1687401480, 959957663]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/Alamofire/Source/Validation.swift"
+  : [1687401480, 960027288]

@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "705A98C8C0FF93C054D435F917A0D65BEE8D217D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "705A98C8C0FF93C054D435F917A0D65BEE8D217D" : 0,
+    "3AF18F9C6F5D633BAA0B3F935459E0C777C82047" : 0,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "320A3AB7-4AB8-490C-A1CB-162521159556",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "705A98C8C0FF93C054D435F917A0D65BEE8D217D" : "Intermediate_Project\/",
+    "3AF18F9C6F5D633BAA0B3F935459E0C777C82047" : "Intermediate_Project\/SubwayStation\/DerivedData\/SubwayStation\/SourcePackages\/checkouts\/SnapKit\/",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "Intermediate_Project\/SubwayStation\/DerivedData\/SubwayStation\/SourcePackages\/checkouts\/Alamofire\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SubwayStation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SubwayStation\/SubwayStation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/hansohee\/Xcode\/Intermediate_Project\/SubwayStation\/DerivedData\/SubwayStation\/SourcePackages\/repositories\/SnapKit-dd27728c",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3AF18F9C6F5D633BAA0B3F935459E0C777C82047"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/hansohee\/Xcode\/Intermediate_Project\/SubwayStation\/DerivedData\/SubwayStation\/SourcePackages\/repositories\/Alamofire-11b78eba",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/haansohee\/Swift_Intermediate_Project.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "705A98C8C0FF93C054D435F917A0D65BEE8D217D"
+    }
+  ]
+}

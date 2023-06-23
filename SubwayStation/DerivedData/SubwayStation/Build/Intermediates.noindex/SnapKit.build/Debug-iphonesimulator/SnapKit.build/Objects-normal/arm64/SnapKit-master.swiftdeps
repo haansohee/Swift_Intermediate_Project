@@ -1,0 +1,79 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "76fad9e337bd9017325803233141ad74a5008f90f81d84dd2318056f60cda136"
+build_start_time: [1687408188, 25541000]
+build_end_time: [1687408191, 173594000]
+inputs:
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/Constraint.swift"
+  : [1687408135, 617195338]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintAttributes.swift"
+  : [1687408135, 617290507]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintConfig.swift"
+  : [1687408135, 617370135]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift"
+  : [1687408135, 617452804]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintDSL.swift"
+  : [1687408135, 617538265]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintDescription.swift"
+  : [1687408135, 617614684]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift"
+  : [1687408135, 617674144]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift"
+  : [1687408135, 617736437]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift"
+  : [1687408135, 617793147]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsets.swift"
+  : [1687408135, 617861566]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintItem.swift"
+  : [1687408135, 617939652]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift"
+  : [1687408135, 618003404]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift"
+  : [1687408135, 618062114]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift"
+  : [1687408135, 618225910]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift"
+  : [1687408135, 618284412]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift"
+  : [1687408135, 618332122]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMaker.swift"
+  : [1687408135, 618390540]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift"
+  : [1687408135, 618456959]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift"
+  : [1687408135, 618518377]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift"
+  : [1687408135, 618581713]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift"
+  : [1687408135, 618658507]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift"
+  : [1687408135, 618748676]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift"
+  : [1687408135, 618824803]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift"
+  : [1687408135, 618880430]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift"
+  : [1687408135, 618932890]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriority.swift"
+  : [1687408135, 618986641]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift"
+  : [1687408135, 619043476]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift"
+  : [1687408135, 619103770]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelation.swift"
+  : [1687408135, 619169355]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift"
+  : [1687408135, 619260816]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintView.swift"
+  : [1687408135, 619557867]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/ConstraintViewDSL.swift"
+  : [1687408135, 619634661]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/Debugging.swift"
+  : [1687408135, 619717455]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraint.swift"
+  : [1687408135, 619796791]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraintItem.swift"
+  : [1687408135, 619885085]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/Typealiases.swift"
+  : [1687408135, 619950587]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SubwayStation/DerivedData/SubwayStation/SourcePackages/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift"
+  : [1687408135, 620008464]
