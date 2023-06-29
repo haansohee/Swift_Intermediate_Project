@@ -1,8 +1,10 @@
 # Swift_Intermediate_Project
-Swift 언어 기반의 기본적인 프로젝트 7개!
+Swift 언어 기반의 기본적인 프로젝트
 
 <br>
-#개발 환경
+
+### 개발 환경
+
 💻 Apple M1 Pro <br>
 🌎 Xcode 14.2
 
