@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "26722f71949bdb0bc010023baf5177d8d0a82f2439bc69acf5028f16a5fd901f"
+build_start_time: [1687739392, 586926000]
+build_end_time: [1687739392, 618697000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/InstagramApp/AppDelegate.swift": !private [1687739362, 376269239]
+  "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/InstagramApp/SceneDelegate.swift": !private [1687739362, 379231724]
+  "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/InstagramApp/ViewController.swift": !private [1687739362, 380092136]

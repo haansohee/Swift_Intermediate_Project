@@ -1,0 +1,20 @@
+"/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/SourcePackages/checkouts/SnapKit/Sources/Typealiases.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.o"
+"/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraintItem.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.d"
+"/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/SourcePackages/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraint.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraint.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraint.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraint.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraint.swiftdeps"

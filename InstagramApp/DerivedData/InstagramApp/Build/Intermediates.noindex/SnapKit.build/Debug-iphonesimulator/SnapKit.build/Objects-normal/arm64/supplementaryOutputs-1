@@ -1,0 +1,25 @@
+"/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintConfig.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConfig.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConfig.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConfig.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConfig.d"
+"/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintAttributes.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.d"
+"/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/SourcePackages/checkouts/SnapKit/Sources/Constraint.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Constraint.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Constraint.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Constraint.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Constraint.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintDSL.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintDSL.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintDSL.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintDSL.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintDSL.d"
+"/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/DerivedData/InstagramApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.o"

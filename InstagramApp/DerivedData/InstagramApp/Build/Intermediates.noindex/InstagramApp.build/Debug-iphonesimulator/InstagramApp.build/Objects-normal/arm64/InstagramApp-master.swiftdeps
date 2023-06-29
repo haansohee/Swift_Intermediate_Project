@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "30361b1aac434dac0d78bf24b8bbecda4513fd388ab4fcb070f49f3eb6cd44d3"
+build_start_time: [1687929524, 780735000]
+build_end_time: [1687929525, 348471000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/InstagramApp/AppDelegate.swift": [1687739362, 376269239]
+  "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/InstagramApp/SceneDelegate.swift": [1687740644, 348291639]
+  "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/InstagramApp/UIButton+.swift": [1687756201, 719888054]
+  "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/InstagramApp/scene/FeedTableViewCell.swift": [1687756198, 876029545]
+  "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/InstagramApp/scene/FeedViewController.swift": [1687929162, 191331767]
+  "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/InstagramApp/scene/ProfileCollectionViewCell.swift": [1687759679, 735420190]
+  "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/InstagramApp/scene/ProfileDataView.swift": [1687758130, 605945649]
+  "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/InstagramApp/scene/ProfileViewController.swift": [1687760090, 703844419]
+  "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/InstagramApp/scene/TabBarController.swift": [1687756463, 342240852]
+  "/Users/hansohee/Xcode/Intermediate_Project/InstagramApp/InstagramApp/scene/UploadViewController.swift": [1687929524, 523918873]
