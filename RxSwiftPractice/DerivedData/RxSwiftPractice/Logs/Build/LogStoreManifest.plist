@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1638FCA3-0D32-4E2C-9D35-7E1E34B6AA42</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1638FCA3-0D32-4E2C-9D35-7E1E34B6AA42.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Observable (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Observable (Playground) 2</string>
+			<key>timeStartedRecording</key>
+			<real>709694424.14386702</real>
+			<key>timeStoppedRecording</key>
+			<real>709694424.49498796</real>
+			<key>title</key>
+			<string>Build Observable (Playground) 2</string>
+			<key>uniqueIdentifier</key>
+			<string>1638FCA3-0D32-4E2C-9D35-7E1E34B6AA42</string>
+		</dict>
+		<key>20BB6A95-3FC4-427A-93C3-981641CDE24A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>20BB6A95-3FC4-427A-93C3-981641CDE24A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Subjects (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Subjects (Playground) 2</string>
+			<key>timeStartedRecording</key>
+			<real>709794947.79882205</real>
+			<key>timeStoppedRecording</key>
+			<real>709794947.98617399</real>
+			<key>title</key>
+			<string>Build Subjects (Playground) 2</string>
+			<key>uniqueIdentifier</key>
+			<string>20BB6A95-3FC4-427A-93C3-981641CDE24A</string>
+		</dict>
+		<key>426D0404-8899-4163-A11B-AF2D456FEB42</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>426D0404-8899-4163-A11B-AF2D456FEB42.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Subjects (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Subjects (Playground) 2</string>
+			<key>timeStartedRecording</key>
+			<real>709794763.31952703</real>
+			<key>timeStoppedRecording</key>
+			<real>709794766.13498998</real>
+			<key>title</key>
+			<string>Build Subjects (Playground) 2</string>
+			<key>uniqueIdentifier</key>
+			<string>426D0404-8899-4163-A11B-AF2D456FEB42</string>
+		</dict>
+		<key>58C3821E-64E6-4AAA-8C7C-CDAC017D308A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>58C3821E-64E6-4AAA-8C7C-CDAC017D308A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RxSwiftPractice</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RxSwiftPractice</string>
+			<key>timeStartedRecording</key>
+			<real>709694289.56441903</real>
+			<key>timeStoppedRecording</key>
+			<real>709694289.99290395</real>
+			<key>title</key>
+			<string>Build RxSwiftPractice</string>
+			<key>uniqueIdentifier</key>
+			<string>58C3821E-64E6-4AAA-8C7C-CDAC017D308A</string>
+		</dict>
+		<key>6228516F-CB7E-46D7-AA74-9AD5966DCF49</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6228516F-CB7E-46D7-AA74-9AD5966DCF49.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RxSwiftPractice</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RxSwiftPractice</string>
+			<key>timeStartedRecording</key>
+			<real>709696304.80690801</real>
+			<key>timeStoppedRecording</key>
+			<real>709696305.06457603</real>
+			<key>title</key>
+			<string>Build RxSwiftPractice</string>
+			<key>uniqueIdentifier</key>
+			<string>6228516F-CB7E-46D7-AA74-9AD5966DCF49</string>
+		</dict>
+		<key>6C61644B-FF8F-4F50-97DD-A17617EE359F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6C61644B-FF8F-4F50-97DD-A17617EE359F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Observable (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Observable (Playground) 2</string>
+			<key>timeStartedRecording</key>
+			<real>709694357.59757602</real>
+			<key>timeStoppedRecording</key>
+			<real>709694358.96847105</real>
+			<key>title</key>
+			<string>Build Observable (Playground) 2</string>
+			<key>uniqueIdentifier</key>
+			<string>6C61644B-FF8F-4F50-97DD-A17617EE359F</string>
+		</dict>
+		<key>6EA5CA0F-FDB0-474B-B023-417296665ED7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6EA5CA0F-FDB0-474B-B023-417296665ED7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Traits (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Traits (Playground) 2</string>
+			<key>timeStartedRecording</key>
+			<real>709709280.49008203</real>
+			<key>timeStoppedRecording</key>
+			<real>709709280.79367101</real>
+			<key>title</key>
+			<string>Build Traits (Playground) 2</string>
+			<key>uniqueIdentifier</key>
+			<string>6EA5CA0F-FDB0-474B-B023-417296665ED7</string>
+		</dict>
+		<key>70184CF6-BE64-4C82-BE9B-3E60E9DE3B98</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>70184CF6-BE64-4C82-BE9B-3E60E9DE3B98.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Traits (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Traits (Playground) 2</string>
+			<key>timeStartedRecording</key>
+			<real>709709096.111619</real>
+			<key>timeStoppedRecording</key>
+			<real>709709101.08878696</real>
+			<key>title</key>
+			<string>Build Traits (Playground) 2</string>
+			<key>uniqueIdentifier</key>
+			<string>70184CF6-BE64-4C82-BE9B-3E60E9DE3B98</string>
+		</dict>
+		<key>A05E523D-98A3-4DE8-8E81-B21A8AC37FC8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A05E523D-98A3-4DE8-8E81-B21A8AC37FC8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Observable (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Observable (Playground) 2</string>
+			<key>timeStartedRecording</key>
+			<real>709694238.72683096</real>
+			<key>timeStoppedRecording</key>
+			<real>709694248.59033895</real>
+			<key>title</key>
+			<string>Build Observable (Playground) 2</string>
+			<key>uniqueIdentifier</key>
+			<string>A05E523D-98A3-4DE8-8E81-B21A8AC37FC8</string>
+		</dict>
+		<key>A0A8073B-E45B-441A-BABD-D53D144F6262</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A0A8073B-E45B-441A-BABD-D53D144F6262.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RxSwiftPractice</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RxSwiftPractice</string>
+			<key>timeStartedRecording</key>
+			<real>709694248.59916306</real>
+			<key>timeStoppedRecording</key>
+			<real>709694257.818344</real>
+			<key>title</key>
+			<string>Build RxSwiftPractice</string>
+			<key>uniqueIdentifier</key>
+			<string>A0A8073B-E45B-441A-BABD-D53D144F6262</string>
+		</dict>
+		<key>A1498B77-1F46-43A8-B736-F4E4CE766211</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A1498B77-1F46-43A8-B736-F4E4CE766211.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RxSwiftPractice</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RxSwiftPractice</string>
+			<key>timeStartedRecording</key>
+			<real>709694422.75423098</real>
+			<key>timeStoppedRecording</key>
+			<real>709694422.87923896</real>
+			<key>title</key>
+			<string>Build RxSwiftPractice</string>
+			<key>uniqueIdentifier</key>
+			<string>A1498B77-1F46-43A8-B736-F4E4CE766211</string>
+		</dict>
+		<key>CDEC745D-D050-4ED5-AF84-79B2DE2E2B9C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CDEC745D-D050-4ED5-AF84-79B2DE2E2B9C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Observable (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Observable (Playground) 2</string>
+			<key>timeStartedRecording</key>
+			<real>709696043.66166902</real>
+			<key>timeStoppedRecording</key>
+			<real>709696043.86097598</real>
+			<key>title</key>
+			<string>Build Observable (Playground) 2</string>
+			<key>uniqueIdentifier</key>
+			<string>CDEC745D-D050-4ED5-AF84-79B2DE2E2B9C</string>
+		</dict>
+		<key>CE15D8F2-9308-4C3B-A9EB-1DC9B35401A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CE15D8F2-9308-4C3B-A9EB-1DC9B35401A9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Traits (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Traits (Playground) 2</string>
+			<key>timeStartedRecording</key>
+			<real>709783838.53513503</real>
+			<key>timeStoppedRecording</key>
+			<real>709783838.92045105</real>
+			<key>title</key>
+			<string>Build Traits (Playground) 2</string>
+			<key>uniqueIdentifier</key>
+			<string>CE15D8F2-9308-4C3B-A9EB-1DC9B35401A9</string>
+		</dict>
+		<key>D9593597-AC81-432D-B56B-0330ED9213A1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D9593597-AC81-432D-B56B-0330ED9213A1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Observable (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Observable (Playground) 2</string>
+			<key>timeStartedRecording</key>
+			<real>709694580.12655103</real>
+			<key>timeStoppedRecording</key>
+			<real>709694580.50022304</real>
+			<key>title</key>
+			<string>Build Observable (Playground) 2</string>
+			<key>uniqueIdentifier</key>
+			<string>D9593597-AC81-432D-B56B-0330ED9213A1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

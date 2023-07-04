@@ -1,0 +1,65 @@
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/Common/DelegateProxy.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/DelegateProxy.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/DelegateProxy.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/DelegateProxy.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/DelegateProxy.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/Traits/Driver/Driver.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Driver.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Driver.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Driver.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Driver.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/Traits/Driver/BehaviorRelay+Driver.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/BehaviorRelay+Driver.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/BehaviorRelay+Driver.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/BehaviorRelay+Driver.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/BehaviorRelay+Driver.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/Traits/Driver/ControlEvent+Driver.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlEvent+Driver.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlEvent+Driver.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlEvent+Driver.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlEvent+Driver.o"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/Traits/Driver/Driver+Subscription.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Driver+Subscription.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Driver+Subscription.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Driver+Subscription.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Driver+Subscription.d"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/Traits/Driver/ControlProperty+Driver.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlProperty+Driver.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlProperty+Driver.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlProperty+Driver.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlProperty+Driver.swiftdeps"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/Traits/Signal/ControlEvent+Signal.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlEvent+Signal.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlEvent+Signal.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlEvent+Signal.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlEvent+Signal.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/Traits/ControlEvent.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlEvent.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlEvent.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlEvent.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlEvent.o"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/Traits/ControlProperty.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlProperty.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlProperty.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlProperty.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlProperty.swiftdeps"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/Platform/DataStructures/Bag.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Bag.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Bag.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Bag.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Bag.d"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/Common/DelegateProxyType.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/DelegateProxyType.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/DelegateProxyType.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/DelegateProxyType.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/DelegateProxyType.o"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/Common/ControlTarget.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlTarget.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlTarget.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlTarget.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/ControlTarget.swiftdeps"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/Platform/DispatchQueue+Extensions.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/DispatchQueue+Extensions.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/DispatchQueue+Extensions.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/DispatchQueue+Extensions.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/DispatchQueue+Extensions.dia"

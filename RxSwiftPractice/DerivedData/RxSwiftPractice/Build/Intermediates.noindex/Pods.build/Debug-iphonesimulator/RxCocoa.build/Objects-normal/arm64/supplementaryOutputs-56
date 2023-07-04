@@ -1,0 +1,60 @@
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/iOS/UISlider+Rx.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISlider+Rx.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISlider+Rx.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISlider+Rx.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISlider+Rx.o"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/Foundation/URLSession+Rx.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/URLSession+Rx.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/URLSession+Rx.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/URLSession+Rx.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/URLSession+Rx.o"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/iOS/UISegmentedControl+Rx.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISegmentedControl+Rx.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISegmentedControl+Rx.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISegmentedControl+Rx.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISegmentedControl+Rx.o"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/iOS/UIStepper+Rx.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIStepper+Rx.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIStepper+Rx.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIStepper+Rx.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIStepper+Rx.o"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/iOS/UISwitch+Rx.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISwitch+Rx.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISwitch+Rx.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISwitch+Rx.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISwitch+Rx.d"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/iOS/UITableView+Rx.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITableView+Rx.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITableView+Rx.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITableView+Rx.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITableView+Rx.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/iOS/UITextField+Rx.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITextField+Rx.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITextField+Rx.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITextField+Rx.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITextField+Rx.o"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/iOS/UITextView+Rx.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITextView+Rx.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITextView+Rx.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITextView+Rx.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITextView+Rx.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/iOS/WKWebView+Rx.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/WKWebView+Rx.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/WKWebView+Rx.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/WKWebView+Rx.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/WKWebView+Rx.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/iOS/UISearchController+Rx.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISearchController+Rx.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISearchController+Rx.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISearchController+Rx.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UISearchController+Rx.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/iOS/UITabBarController+Rx.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITabBarController+Rx.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITabBarController+Rx.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITabBarController+Rx.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITabBarController+Rx.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxCocoa/RxCocoa/iOS/UITabBar+Rx.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITabBar+Rx.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITabBar+Rx.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITabBar+Rx.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UITabBar+Rx.o"

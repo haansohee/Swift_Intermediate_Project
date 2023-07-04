@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0F117C08-FD37-45FF-9120-82107422D4E6</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A1498B77-1F46-43A8-B736-F4E4CE766211</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-RxSwiftPractice-2023.06.29_10-20-22-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RxSwiftPractice</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RxSwiftPractice</string>
+			<key>timeStartedRecording</key>
+			<real>709694422.75381994</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run RxSwiftPractice</string>
+			<key>uniqueIdentifier</key>
+			<string>0F117C08-FD37-45FF-9120-82107422D4E6</string>
+		</dict>
+		<key>C299911A-214B-46CA-81D3-BDAF5DBCADBA</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>6228516F-CB7E-46D7-AA74-9AD5966DCF49</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-RxSwiftPractice-2023.06.29_10-51-44-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RxSwiftPractice</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RxSwiftPractice</string>
+			<key>timeStartedRecording</key>
+			<real>709696304.80676997</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run RxSwiftPractice</string>
+			<key>uniqueIdentifier</key>
+			<string>C299911A-214B-46CA-81D3-BDAF5DBCADBA</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

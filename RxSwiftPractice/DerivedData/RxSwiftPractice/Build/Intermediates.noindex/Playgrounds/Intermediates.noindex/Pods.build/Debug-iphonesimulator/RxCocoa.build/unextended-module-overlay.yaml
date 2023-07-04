@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Playgrounds/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Playgrounds/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Playgrounds/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "RxCocoa-Swift.h",
+      'external-contents': "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Build/Intermediates.noindex/Playgrounds/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/unextended-interface-header.h",
+    }]
+    }]
+}

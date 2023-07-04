@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Index.noindex/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Index.noindex/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "RxSwift-Swift.h",
+      'external-contents': "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/DerivedData/RxSwiftPractice/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/unextended-interface-header.h",
+    }]
+    }]
+}

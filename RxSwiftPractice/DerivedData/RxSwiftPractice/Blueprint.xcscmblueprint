@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "705A98C8C0FF93C054D435F917A0D65BEE8D217D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "705A98C8C0FF93C054D435F917A0D65BEE8D217D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6063D406-91D7-47B9-B8EC-E7478E22B6F8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "705A98C8C0FF93C054D435F917A0D65BEE8D217D" : "Intermediate_Project\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RxSwiftPractice",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RxSwiftPractice\/RxSwiftPractice.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/haansohee\/Swift_Intermediate_Project.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "705A98C8C0FF93C054D435F917A0D65BEE8D217D"
+    }
+  ]
+}

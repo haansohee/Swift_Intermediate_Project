@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "b114ffe198065702da0c720c8fc160192243c601524388028065be4fbd1849e8"
+build_start_time: [1688001420, 677690000]
+build_end_time: [1688001420, 831006000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxRelay/RxRelay/BehaviorRelay.swift": [1688001403, 452708652]
+  "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxRelay/RxRelay/Observable+Bind.swift": [1688001403, 452447409]
+  "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxRelay/RxRelay/PublishRelay.swift": [1688001403, 452039962]
+  "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxRelay/RxRelay/ReplayRelay.swift": [1688001403, 452229749]
+  "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/Pods/RxRelay/RxRelay/Utils.swift": [1688001403, 452571906]

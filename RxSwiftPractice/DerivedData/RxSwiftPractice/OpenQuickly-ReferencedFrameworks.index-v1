@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>RxSwift</string>
+	<string>RxRelay</string>
+	<string>Dispatch</string>
+	<string>RxCocoa</string>
+	<string>CoreGraphics</string>
+	<string>WebKit</string>
+	<string>Glibc</string>
+	<string>FoundationNetworking</string>
+	<string>Darwin</string>
+	<string>Swift</string>
+	<string>libkern</string>
+	<string>objc</string>
+	<string>Cocoa</string>
+	<string>RxCocoaRuntime</string>
+	<string>UIKit</string>
+	<string>Foundation</string>
+	<string>CoreData</string>
+	<string>AppKit</string>
+</array>
+</plist>

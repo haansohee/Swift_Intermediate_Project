@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "d995b018869e3d4f7894f5d6f69e68001b2cad58218177a69e130af0a8010362"
+build_start_time: [1688001455, 920825000]
+build_end_time: [1688001456, 804000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/RxSwiftPractice/AppDelegate.swift": !private [1688001336, 839480587]
+  "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/RxSwiftPractice/SceneDelegate.swift": !private [1688001336, 841156749]
+  "/Users/hansohee/Xcode/Intermediate_Project/RxSwiftPractice/RxSwiftPractice/ViewController.swift": !private [1688001336, 841987435]
