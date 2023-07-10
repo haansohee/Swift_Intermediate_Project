@@ -3,9 +3,9 @@
 <plist version="1.0">
 <array>
 	<string>RxSwift</string>
-	<string>RxRelay</string>
-	<string>Dispatch</string>
 	<string>RxCocoa</string>
+	<string>Dispatch</string>
+	<string>RxRelay</string>
 	<string>CoreGraphics</string>
 	<string>WebKit</string>
 	<string>Glibc</string>

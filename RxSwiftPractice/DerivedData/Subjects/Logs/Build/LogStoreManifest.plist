@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7B98EC39-5A65-4611-BFD0-3D841F801870</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7B98EC39-5A65-4611-BFD0-3D841F801870.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Subjects</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Subjects (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Subjects (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>710342679.97004294</real>
+			<key>timeStoppedRecording</key>
+			<real>710342680.40003097</real>
+			<key>title</key>
+			<string>Build Subjects (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>7B98EC39-5A65-4611-BFD0-3D841F801870</string>
+		</dict>
+		<key>DCB3E827-8EA0-4BD1-84CF-27BD6AD864A6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DCB3E827-8EA0-4BD1-84CF-27BD6AD864A6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Subjects</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Subjects (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Subjects (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>710342752.181023</real>
+			<key>timeStoppedRecording</key>
+			<real>710342752.41061103</real>
+			<key>title</key>
+			<string>Build Subjects (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>DCB3E827-8EA0-4BD1-84CF-27BD6AD864A6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

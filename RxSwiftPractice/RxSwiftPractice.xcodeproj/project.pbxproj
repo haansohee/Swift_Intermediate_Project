@@ -30,6 +30,7 @@
 		F5871EE92A4D131D00F65AE3 /* Observable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Observable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F5871EEA2A4D4D2700F65AE3 /* Traits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Traits.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F5871EEB2A4E9BCA00F65AE3 /* Subjects.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subjects.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F5DE5BB52A5C43840050DC2C /* FilteringOperator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FilteringOperator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F70459CE7069CA079A89BCF4 /* Pods-RxSwiftPractice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftPractice.debug.xcconfig"; path = "Target Support Files/Pods-RxSwiftPractice/Pods-RxSwiftPractice.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -65,9 +66,10 @@
 		F53025952A4D12B8004371A7 = {
 			isa = PBXGroup;
 			children = (
-				F5871EEB2A4E9BCA00F65AE3 /* Subjects.playground */,
-				F5871EEA2A4D4D2700F65AE3 /* Traits.playground */,
 				F5871EE92A4D131D00F65AE3 /* Observable.playground */,
+				F5871EEA2A4D4D2700F65AE3 /* Traits.playground */,
+				F5871EEB2A4E9BCA00F65AE3 /* Subjects.playground */,
+				F5DE5BB52A5C43840050DC2C /* FilteringOperator.playground */,
 				F53025A02A4D12B8004371A7 /* RxSwiftPractice */,
 				F530259F2A4D12B8004371A7 /* Products */,
 				17FB7F182E6A0DA590F5502E /* Pods */,
