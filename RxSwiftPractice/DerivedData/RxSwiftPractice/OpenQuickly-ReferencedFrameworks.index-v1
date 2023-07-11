@@ -8,8 +8,8 @@
 	<string>RxRelay</string>
 	<string>CoreGraphics</string>
 	<string>WebKit</string>
-	<string>Glibc</string>
 	<string>FoundationNetworking</string>
+	<string>Glibc</string>
 	<string>Darwin</string>
 	<string>Swift</string>
 	<string>libkern</string>
