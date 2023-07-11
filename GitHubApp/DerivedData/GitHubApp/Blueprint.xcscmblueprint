@@ -4,16 +4,23 @@
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "705A98C8C0FF93C054D435F917A0D65BEE8D217D" : 0
+    "705A98C8C0FF93C054D435F917A0D65BEE8D217D" : 0,
+    "3AF18F9C6F5D633BAA0B3F935459E0C777C82047" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D269FCC6-27AD-4FC1-93D1-17625D8B5C2C",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "705A98C8C0FF93C054D435F917A0D65BEE8D217D" : "Intermediate_Project\/"
+    "705A98C8C0FF93C054D435F917A0D65BEE8D217D" : "Intermediate_Project\/",
+    "3AF18F9C6F5D633BAA0B3F935459E0C777C82047" : "Intermediate_Project\/GitHubApp\/DerivedData\/GitHubApp\/SourcePackages\/checkouts\/SnapKit\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "GitHubApp",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GitHubApp\/GitHubApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GitHubApp\/GitHubApp.xcworkspace",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/hansohee\/Xcode\/Intermediate_Project\/GitHubApp\/DerivedData\/GitHubApp\/SourcePackages\/repositories\/SnapKit-dd27728c",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3AF18F9C6F5D633BAA0B3F935459E0C777C82047"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/haansohee\/Swift_Intermediate_Project.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",

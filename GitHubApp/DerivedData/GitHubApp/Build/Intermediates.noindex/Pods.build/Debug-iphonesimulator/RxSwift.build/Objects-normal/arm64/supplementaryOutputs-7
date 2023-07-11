@@ -1,0 +1,95 @@
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Schedulers/SerialDispatchQueueScheduler.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SerialDispatchQueueScheduler.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SerialDispatchQueueScheduler.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SerialDispatchQueueScheduler.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SerialDispatchQueueScheduler.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Observables/StartWith.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/StartWith.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/StartWith.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/StartWith.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/StartWith.o"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Observables/ShareReplayScope.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/ShareReplayScope.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/ShareReplayScope.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/ShareReplayScope.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/ShareReplayScope.o"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Observables/SingleAsync.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SingleAsync.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SingleAsync.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SingleAsync.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SingleAsync.d"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Observables/Skip.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Skip.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Skip.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Skip.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Skip.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Observables/SubscribeOn.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SubscribeOn.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SubscribeOn.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SubscribeOn.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SubscribeOn.d"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Disposables/SubscriptionDisposable.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SubscriptionDisposable.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SubscriptionDisposable.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SubscriptionDisposable.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SubscriptionDisposable.d"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Observables/SkipUntil.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SkipUntil.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SkipUntil.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SkipUntil.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SkipUntil.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Observables/SkipWhile.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SkipWhile.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SkipWhile.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SkipWhile.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SkipWhile.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Subjects/SubjectType.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SubjectType.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SubjectType.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SubjectType.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SubjectType.o"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Observables/Switch.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Switch.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Switch.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Switch.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Switch.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Observables/SwitchIfEmpty.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SwitchIfEmpty.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SwitchIfEmpty.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SwitchIfEmpty.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SwitchIfEmpty.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/SwiftSupport/SwiftSupport.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SwiftSupport.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SwiftSupport.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SwiftSupport.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SwiftSupport.d"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Observables/Sequence.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Sequence.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Sequence.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Sequence.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Sequence.o"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Concurrency/SynchronizedDisposeType.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SynchronizedDisposeType.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SynchronizedDisposeType.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SynchronizedDisposeType.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SynchronizedDisposeType.swiftdeps"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Observables/Sink.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Sink.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Sink.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Sink.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Sink.o"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Disposables/SingleAssignmentDisposable.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SingleAssignmentDisposable.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SingleAssignmentDisposable.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SingleAssignmentDisposable.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SingleAssignmentDisposable.d"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Traits/PrimitiveSequence/Single.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Single.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Single.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Single.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/Single.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxSwift/RxSwift/Disposables/SerialDisposable.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SerialDisposable.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SerialDisposable.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SerialDisposable.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxSwift.build/Objects-normal/arm64/SerialDisposable.o"

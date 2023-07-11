@@ -1,0 +1,60 @@
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxCocoa/RxCocoa/Common/SectionedViewDataSourceType.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SectionedViewDataSourceType.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SectionedViewDataSourceType.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SectionedViewDataSourceType.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SectionedViewDataSourceType.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxCocoa/RxCocoa/iOS/Proxies/RxWKNavigationDelegateProxy.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/RxWKNavigationDelegateProxy.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/RxWKNavigationDelegateProxy.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/RxWKNavigationDelegateProxy.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/RxWKNavigationDelegateProxy.o"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxCocoa/RxCocoa/iOS/Proxies/RxTextViewDelegateProxy.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/RxTextViewDelegateProxy.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/RxTextViewDelegateProxy.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/RxTextViewDelegateProxy.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/RxTextViewDelegateProxy.d"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxCocoa/RxCocoa/Traits/SharedSequence/SharedSequence.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SharedSequence.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SharedSequence.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SharedSequence.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SharedSequence.swiftdeps"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxCocoa/RxCocoa/Traits/SharedSequence/SharedSequence+Operators+arity.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SharedSequence+Operators+arity.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SharedSequence+Operators+arity.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SharedSequence+Operators+arity.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SharedSequence+Operators+arity.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxCocoa/RxCocoa/Traits/SharedSequence/SharedSequence+Operators.swift":
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SharedSequence+Operators.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SharedSequence+Operators.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SharedSequence+Operators.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SharedSequence+Operators.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxCocoa/RxCocoa/Traits/Signal/Signal+Subscription.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Signal+Subscription.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Signal+Subscription.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Signal+Subscription.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Signal+Subscription.swiftdeps"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxCocoa/RxCocoa/Common/TextInput.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/TextInput.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/TextInput.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/TextInput.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/TextInput.o"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxCocoa/RxCocoa/Traits/SharedSequence/SchedulerType+SharedSequence.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SchedulerType+SharedSequence.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SchedulerType+SharedSequence.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SchedulerType+SharedSequence.swiftdeps"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/SchedulerType+SharedSequence.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxCocoa/RxCocoa/iOS/UIActivityIndicatorView+Rx.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIActivityIndicatorView+Rx.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIActivityIndicatorView+Rx.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIActivityIndicatorView+Rx.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/UIActivityIndicatorView+Rx.o"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxCocoa/RxCocoa/Traits/Signal/Signal.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Signal.dia"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Signal.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Signal.d"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/Signal.o"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/Pods/RxCocoa/RxCocoa/iOS/Proxies/RxTextStorageDelegateProxy.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/RxTextStorageDelegateProxy.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/RxTextStorageDelegateProxy.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/RxTextStorageDelegateProxy.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/RxCocoa.build/Objects-normal/arm64/RxTextStorageDelegateProxy.swiftdeps"

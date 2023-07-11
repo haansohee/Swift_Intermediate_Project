@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "82a43f2082be404efbe778d11ff54ea78ed994373b414d9b2474b0097ed06abc"
+build_start_time: [1688001060, 854444000]
+build_end_time: [1688001060, 880655000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/GitHubApp/AppDelegate.swift": !private [1687998774, 216762027]
+  "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/GitHubApp/SceneDelegate.swift": !private [1687998774, 219894149]
+  "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/GitHubApp/ViewController.swift": !private [1688001053, 638406433]

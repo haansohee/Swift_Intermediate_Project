@@ -1,0 +1,70 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "4adf1ec5bc881942acc06263111616e3facd8be984318b0446d5afe30bc1d4aa"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd429a2ea002d032005c2825ef42a5816b9b"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd424f96f1021f5250ab30d486e660411efe"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd420daa2e2cd26ad5ca345c3044f7db418b"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4291ffb250f3b44ffb9b452226d52e9fa9"
+    }
+  ],
+  "containerPath" : "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/GitHubApp.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Products",
+      "pchPath" : "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

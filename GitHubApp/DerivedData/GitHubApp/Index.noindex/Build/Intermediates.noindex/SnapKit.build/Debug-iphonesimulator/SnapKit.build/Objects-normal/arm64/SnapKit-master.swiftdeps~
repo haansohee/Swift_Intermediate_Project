@@ -1,0 +1,79 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "dfedbc08ede1146f6198d032420b7c44fd86bb7758d0a3bdbd34091c1ce859f4"
+build_start_time: [1689083680, 139671000]
+build_end_time: [1689083681, 22031000]
+inputs:
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/Constraint.swift"
+  : !dirty [1689083675, 780886632]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintAttributes.swift"
+  : !dirty [1689083675, 780983508]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintConfig.swift"
+  : !dirty [1689083675, 781062216]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift"
+  : !dirty [1689083675, 781147091]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintDSL.swift"
+  : !dirty [1689083675, 781235466]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintDescription.swift"
+  : !dirty [1689083675, 781315342]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift"
+  : !dirty [1689083675, 781387717]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift"
+  : !dirty [1689083675, 781450134]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift"
+  : !dirty [1689083675, 781509092]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsets.swift"
+  : !dirty [1689083675, 781577384]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintItem.swift"
+  : !dirty [1689083675, 781662009]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift"
+  : !dirty [1689083675, 781725426]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift"
+  : !dirty [1689083675, 781786551]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift"
+  : !dirty [1689083675, 781952677]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift"
+  : !dirty [1689083675, 782012635]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift"
+  : !dirty [1689083675, 782060844]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMaker.swift"
+  : !dirty [1689083675, 782120219]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift"
+  : !dirty [1689083675, 782188344]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift"
+  : !dirty [1689083675, 782265136]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift"
+  : !dirty [1689083675, 782330302]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift"
+  : !dirty [1689083675, 782399094]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift"
+  : !dirty [1689083675, 782487803]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift"
+  : !dirty [1689083675, 782566136]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift"
+  : !dirty [1689083675, 782620095]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift"
+  : !dirty [1689083675, 782674470]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriority.swift"
+  : !dirty [1689083675, 782727512]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift"
+  : !dirty [1689083675, 782783720]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift"
+  : !dirty [1689083675, 782837554]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelation.swift"
+  : !dirty [1689083675, 782913346]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift"
+  : !dirty [1689083675, 782999221]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintView.swift"
+  : !dirty [1689083675, 783054013]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintViewDSL.swift"
+  : !dirty [1689083675, 783199222]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/Debugging.swift"
+  : !dirty [1689083675, 783283555]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraint.swift"
+  : !dirty [1689083675, 783388430]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraintItem.swift"
+  : !dirty [1689083675, 783482222]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/Typealiases.swift"
+  : !dirty [1689083675, 783546681]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift"
+  : !dirty [1689083675, 783600473]

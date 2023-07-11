@@ -1,0 +1,40 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-ios-simulator ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/RxRelay.framework/RxRelay'
+swift-abi-version: 7
+exports:
+  - targets:         [ arm64-ios-simulator ]
+    symbols:         [ '_$s7RxRelay06ReplayB0C12asObservable0A5Swift0E0CyxGyF', '_$s7RxRelay06ReplayB0C13createUnboundACyxGyFZ', 
+                       '_$s7RxRelay06ReplayB0C6acceptyyxF', '_$s7RxRelay06ReplayB0C6create10bufferSizeACyxGSi_tFZ', 
+                       '_$s7RxRelay06ReplayB0C9subscribey0A5Swift10Disposable_pqd__7ElementQyd__RszAE12ObserverTypeRd__lF', 
+                       '_$s7RxRelay06ReplayB0CMa', '_$s7RxRelay06ReplayB0CMn', '_$s7RxRelay06ReplayB0CfD', 
+                       '_$s7RxRelay06ReplayB0Cfd', '_$s7RxRelay06ReplayB0CyxG0A5Swift14ObservableTypeAAMc', 
+                       '_$s7RxRelay06ReplayB0CyxG0A5Swift25ObservableConvertibleTypeAAMc', 
+                       '_$s7RxRelay07PublishB0C12asObservable0A5Swift0E0CyxGyF', 
+                       '_$s7RxRelay07PublishB0C6acceptyyxF', '_$s7RxRelay07PublishB0C9subscribey0A5Swift10Disposable_pqd__7ElementQyd__RszAE12ObserverTypeRd__lF', 
+                       '_$s7RxRelay07PublishB0CACyxGycfC', '_$s7RxRelay07PublishB0CACyxGycfCTq', 
+                       '_$s7RxRelay07PublishB0CACyxGycfc', '_$s7RxRelay07PublishB0CMa', 
+                       '_$s7RxRelay07PublishB0CMn', '_$s7RxRelay07PublishB0CfD', 
+                       '_$s7RxRelay07PublishB0Cfd', '_$s7RxRelay07PublishB0CyxG0A5Swift14ObservableTypeAAMc', 
+                       '_$s7RxRelay07PublishB0CyxG0A5Swift25ObservableConvertibleTypeAAMc', 
+                       '_$s7RxRelay08BehaviorB0C12asObservable0A5Swift0E0CyxGyF', 
+                       '_$s7RxRelay08BehaviorB0C5valueACyxGx_tcfC', '_$s7RxRelay08BehaviorB0C5valueACyxGx_tcfCTq', 
+                       '_$s7RxRelay08BehaviorB0C5valueACyxGx_tcfc', '_$s7RxRelay08BehaviorB0C5valuexvg', 
+                       '_$s7RxRelay08BehaviorB0C5valuexvpMV', '_$s7RxRelay08BehaviorB0C6acceptyyxF', 
+                       '_$s7RxRelay08BehaviorB0C9subscribey0A5Swift10Disposable_pqd__7ElementQyd__RszAE12ObserverTypeRd__lF', 
+                       '_$s7RxRelay08BehaviorB0CMa', '_$s7RxRelay08BehaviorB0CMn', 
+                       '_$s7RxRelay08BehaviorB0CfD', '_$s7RxRelay08BehaviorB0Cfd', 
+                       '_$s7RxRelay08BehaviorB0CyxG0A5Swift14ObservableTypeAAMc', 
+                       '_$s7RxRelay08BehaviorB0CyxG0A5Swift25ObservableConvertibleTypeAAMc', 
+                       '_$s7RxRelay19rxFatalErrorInDebug_4file4lineySSyXK_s12StaticStringVSutF', 
+                       '_$s7RxSwift14ObservableTypeP0A5RelayE4bind2toAA10Disposable_pAD06ReplayE0Cy7ElementQzGd_tF', 
+                       '_$s7RxSwift14ObservableTypeP0A5RelayE4bind2toAA10Disposable_pAD06ReplayE0Cy7ElementQzSgGd_tF', 
+                       '_$s7RxSwift14ObservableTypeP0A5RelayE4bind2toAA10Disposable_pAD07PublishE0Cy7ElementQzGd_tF', 
+                       '_$s7RxSwift14ObservableTypeP0A5RelayE4bind2toAA10Disposable_pAD07PublishE0Cy7ElementQzSgGd_tF', 
+                       '_$s7RxSwift14ObservableTypeP0A5RelayE4bind2toAA10Disposable_pAD08BehaviorE0Cy7ElementQzGd_tF', 
+                       '_$s7RxSwift14ObservableTypeP0A5RelayE4bind2toAA10Disposable_pAD08BehaviorE0Cy7ElementQzSgGd_tF', 
+                       _RxRelayVersionNumber, _RxRelayVersionString ]
+    objc-classes:    [ PodsDummy_RxRelay ]
+...
