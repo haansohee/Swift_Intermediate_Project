@@ -1,0 +1,79 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "de449a7be2e56ad6a88c2ef2b2a0202a8cfe4dcd67988496b0cd46ac2cde726b"
+build_start_time: [1689171182, 942102000]
+build_end_time: [1689171185, 465860000]
+inputs:
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/Constraint.swift"
+  : [1689083675, 780886632]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintAttributes.swift"
+  : [1689083675, 780983508]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintConfig.swift"
+  : [1689083675, 781062216]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift"
+  : [1689083675, 781147091]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintDSL.swift"
+  : [1689083675, 781235466]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintDescription.swift"
+  : [1689083675, 781315342]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift"
+  : [1689083675, 781387717]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift"
+  : [1689083675, 781450134]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift"
+  : [1689083675, 781509092]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsets.swift"
+  : [1689083675, 781577384]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintItem.swift"
+  : [1689083675, 781662009]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift"
+  : [1689083675, 781725426]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift"
+  : [1689083675, 781786551]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift"
+  : [1689083675, 781952677]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift"
+  : [1689083675, 782012635]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift"
+  : [1689083675, 782060844]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMaker.swift"
+  : [1689083675, 782120219]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift"
+  : [1689083675, 782188344]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift"
+  : [1689083675, 782265136]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift"
+  : [1689083675, 782330302]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift"
+  : [1689083675, 782399094]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift"
+  : [1689083675, 782487803]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift"
+  : [1689083675, 782566136]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift"
+  : [1689083675, 782620095]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift"
+  : [1689083675, 782674470]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriority.swift"
+  : [1689083675, 782727512]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift"
+  : [1689083675, 782783720]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift"
+  : [1689083675, 782837554]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelation.swift"
+  : [1689083675, 782913346]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift"
+  : [1689083675, 782999221]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintView.swift"
+  : [1689083675, 783054013]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintViewDSL.swift"
+  : [1689083675, 783199222]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/Debugging.swift"
+  : [1689083675, 783283555]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraint.swift"
+  : [1689083675, 783388430]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraintItem.swift"
+  : [1689083675, 783482222]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/Typealiases.swift"
+  : [1689083675, 783546681]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift"
+  : [1689083675, 783600473]

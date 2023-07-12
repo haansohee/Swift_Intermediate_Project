@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>47DDBF79-DBB9-4CC0-A372-ECCA803019E0</key>
+		<key>05100AB0-5995-4D56-A457-6A330BE45AAB</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,371 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>47DDBF79-DBB9-4CC0-A372-ECCA803019E0.xcactivitylog</string>
+			<string>05100AB0-5995-4D56-A457-6A330BE45AAB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IkVBOUVBNDNCM0I1MDM4MjNFRTM2QzYwRDlDOEE4NjVGIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>710864042.54990602</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>05100AB0-5995-4D56-A457-6A330BE45AAB</string>
+		</dict>
+		<key>0AD4B617-5ABB-461A-B26C-7ECD135E2288</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0AD4B617-5ABB-461A-B26C-7ECD135E2288.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IkVBOUVBNDNCM0I1MDM4MjNFRTM2QzYwRDlDOEE4NjVGIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>710864044.95426702</real>
+			<key>timeStoppedRecording</key>
+			<real>710864045.088745</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>0AD4B617-5ABB-461A-B26C-7ECD135E2288</string>
+		</dict>
+		<key>0C42DDAB-E004-4707-A239-FF0AB30F8A01</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0C42DDAB-E004-4707-A239-FF0AB30F8A01.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
+			<key>timeStartedRecording</key>
+			<real>710864044.95426702</real>
+			<key>timeStoppedRecording</key>
+			<real>710864045.088745</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>0C42DDAB-E004-4707-A239-FF0AB30F8A01</string>
+		</dict>
+		<key>141F2A61-0DD0-49A5-ADE2-3D6A11E390E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>141F2A61-0DD0-49A5-ADE2-3D6A11E390E0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>710864044.95426702</real>
+			<key>timeStoppedRecording</key>
+			<real>710864045.088745</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>141F2A61-0DD0-49A5-ADE2-3D6A11E390E0</string>
+		</dict>
+		<key>143FD36A-709B-48F1-8A9B-E746E880AB29</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>143FD36A-709B-48F1-8A9B-E746E880AB29.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvR2l0SHViQXBwLnhjb2RlcHJvaiIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiRjU3NEEwRjUyQTREMDhCNjAwQkQzNUMyIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>710864044.95426702</real>
+			<key>timeStoppedRecording</key>
+			<real>710864045.088745</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>143FD36A-709B-48F1-8A9B-E746E880AB29</string>
+		</dict>
+		<key>178A04B5-BF10-4268-8583-829F640E5530</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>178A04B5-BF10-4268-8583-829F640E5530.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvRGVyaXZlZERhdGFcL0dpdEh1YkFwcFwvU291cmNlUGFja2FnZXNcL2NoZWNrb3V0c1wvU25hcEtpdCIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiU25hcEtpdCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>710863981.73398101</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>178A04B5-BF10-4268-8583-829F640E5530</string>
+		</dict>
+		<key>27CDD776-23F9-4603-8BF0-8A5548A48DD8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>27CDD776-23F9-4603-8BF0-8A5548A48DD8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjdBRDBDNkRDREM5Q0VDOEEzQzdDMTBDN0ZFRTA3QkU2In0=</string>
+			<key>timeStartedRecording</key>
+			<real>710864044.95426702</real>
+			<key>timeStoppedRecording</key>
+			<real>710864045.088745</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>27CDD776-23F9-4603-8BF0-8A5548A48DD8</string>
+		</dict>
+		<key>3F70A007-1F18-4C18-B0D1-5F8BBF333BC9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3F70A007-1F18-4C18-B0D1-5F8BBF333BC9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjdBRDBDNkRDREM5Q0VDOEEzQzdDMTBDN0ZFRTA3QkU2In0=</string>
+			<key>timeStartedRecording</key>
+			<real>710864006.88024402</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>3F70A007-1F18-4C18-B0D1-5F8BBF333BC9</string>
+		</dict>
+		<key>40008C0E-C889-4DF1-A3E4-628A6CB56587</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>40008C0E-C889-4DF1-A3E4-628A6CB56587.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>710864006.88024402</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>40008C0E-C889-4DF1-A3E4-628A6CB56587</string>
+		</dict>
+		<key>44F8A7C0-65E4-47D0-A99B-EB77E4AF9030</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>44F8A7C0-65E4-47D0-A99B-EB77E4AF9030.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjEyMTgwNEMzQzdGMEI3QUQ0ODE5QjhFRjIwMUVBMkQxIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>710863981.73398101</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>44F8A7C0-65E4-47D0-A99B-EB77E4AF9030</string>
+		</dict>
+		<key>4A33E2E3-27F1-44E9-B14C-F2BBACED517D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4A33E2E3-27F1-44E9-B14C-F2BBACED517D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
+			<key>timeStartedRecording</key>
+			<real>709693854.13631904</real>
+			<key>timeStoppedRecording</key>
+			<real>709693863.43808603</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>4A33E2E3-27F1-44E9-B14C-F2BBACED517D</string>
+		</dict>
+		<key>4A669954-1AD2-469B-A384-BBB70D1EDE9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4A669954-1AD2-469B-A384-BBB70D1EDE9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvRGVyaXZlZERhdGFcL0dpdEh1YkFwcFwvU291cmNlUGFja2FnZXNcL2NoZWNrb3V0c1wvU25hcEtpdCIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiU25hcEtpdCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>710864042.54990602</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>4A669954-1AD2-469B-A384-BBB70D1EDE9B</string>
+		</dict>
+		<key>59EC2010-244A-4972-9879-49D72B4B5CAA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>59EC2010-244A-4972-9879-49D72B4B5CAA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IkVBOUVBNDNCM0I1MDM4MjNFRTM2QzYwRDlDOEE4NjVGIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>709693854.13631904</real>
+			<key>timeStoppedRecording</key>
+			<real>709693863.43808603</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>59EC2010-244A-4972-9879-49D72B4B5CAA</string>
+		</dict>
+		<key>6C3CD340-1A9D-4692-BAAD-C21B10DB3B11</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6C3CD340-1A9D-4692-BAAD-C21B10DB3B11.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,9 +396,9 @@
 			<key>title</key>
 			<string>Build GitHubApp</string>
 			<key>uniqueIdentifier</key>
-			<string>47DDBF79-DBB9-4CC0-A372-ECCA803019E0</string>
+			<string>6C3CD340-1A9D-4692-BAAD-C21B10DB3B11</string>
 		</dict>
-		<key>8A593AF1-F48E-4080-8E9C-13566790CF8C</key>
+		<key>718CEE0B-50DB-460F-A365-89AF762D68C4</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -43,7 +407,63 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>8A593AF1-F48E-4080-8E9C-13566790CF8C.xcactivitylog</string>
+			<string>718CEE0B-50DB-460F-A365-89AF762D68C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
+			<key>timeStartedRecording</key>
+			<real>710864006.88024402</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>718CEE0B-50DB-460F-A365-89AF762D68C4</string>
+		</dict>
+		<key>7D516747-3252-4F21-B2EF-F48F4AAEB9F9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7D516747-3252-4F21-B2EF-F48F4AAEB9F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvR2l0SHViQXBwLnhjb2RlcHJvaiIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiRjU3NEEwRjUyQTREMDhCNjAwQkQzNUMyIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>710863981.73398101</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>7D516747-3252-4F21-B2EF-F48F4AAEB9F9</string>
+		</dict>
+		<key>8225E409-1F61-4C60-A3C4-9790ADC59916</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8225E409-1F61-4C60-A3C4-9790ADC59916.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -60,7 +480,119 @@
 			<key>title</key>
 			<string>Build GitHubApp</string>
 			<key>uniqueIdentifier</key>
-			<string>8A593AF1-F48E-4080-8E9C-13566790CF8C</string>
+			<string>8225E409-1F61-4C60-A3C4-9790ADC59916</string>
+		</dict>
+		<key>94EFFB80-3605-4071-AA1C-F82845FAEB71</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>94EFFB80-3605-4071-AA1C-F82845FAEB71.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjEyMTgwNEMzQzdGMEI3QUQ0ODE5QjhFRjIwMUVBMkQxIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>710864006.88024402</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>94EFFB80-3605-4071-AA1C-F82845FAEB71</string>
+		</dict>
+		<key>9D5D1728-3C08-4565-ADCE-D2D11512FF54</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9D5D1728-3C08-4565-ADCE-D2D11512FF54.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvR2l0SHViQXBwLnhjb2RlcHJvaiIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiRjU3NEEwRjUyQTREMDhCNjAwQkQzNUMyIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>710864006.88024402</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>9D5D1728-3C08-4565-ADCE-D2D11512FF54</string>
+		</dict>
+		<key>A951E183-195C-423E-9A58-6DFAF72CFA4F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A951E183-195C-423E-9A58-6DFAF72CFA4F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvR2l0SHViQXBwLnhjb2RlcHJvaiIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiRjU3NEEwRjUyQTREMDhCNjAwQkQzNUMyIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>710864042.54990602</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A951E183-195C-423E-9A58-6DFAF72CFA4F</string>
+		</dict>
+		<key>B044DA5E-3B86-40DE-B66E-B0BA0AE313EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B044DA5E-3B86-40DE-B66E-B0BA0AE313EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IkVBOUVBNDNCM0I1MDM4MjNFRTM2QzYwRDlDOEE4NjVGIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>710864006.88024402</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B044DA5E-3B86-40DE-B66E-B0BA0AE313EA</string>
 		</dict>
 		<key>B28AB8FA-78AF-4159-95B4-5650C6063B4A</key>
 		<dict>
@@ -90,7 +622,7 @@
 			<key>uniqueIdentifier</key>
 			<string>B28AB8FA-78AF-4159-95B4-5650C6063B4A</string>
 		</dict>
-		<key>C092A699-4660-4C20-8E38-BA5A0EFA5323</key>
+		<key>BFC1A324-5A63-43D3-8EB7-54C6F7C7D051</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -99,26 +631,26 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C092A699-4660-4C20-8E38-BA5A0EFA5323.xcactivitylog</string>
+			<string>BFC1A324-5A63-43D3-8EB7-54C6F7C7D051.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjQ2MjJCRkVGM0RDMTZFOEJEMTVFRUZDMzBENEQwMDg0In0=</string>
 			<key>timeStartedRecording</key>
-			<real>709693854.13631904</real>
+			<real>710864006.88024402</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build GitHubApp</string>
 			<key>uniqueIdentifier</key>
-			<string>C092A699-4660-4C20-8E38-BA5A0EFA5323</string>
+			<string>BFC1A324-5A63-43D3-8EB7-54C6F7C7D051</string>
 		</dict>
-		<key>DE3DFFA5-382E-40C2-A07C-30F6DEFD8BC4</key>
+		<key>C5F7CAC9-AA6E-479E-90A7-3C0529D7F3A0</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -127,7 +659,35 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>DE3DFFA5-382E-40C2-A07C-30F6DEFD8BC4.xcactivitylog</string>
+			<string>C5F7CAC9-AA6E-479E-90A7-3C0529D7F3A0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjQ2MjJCRkVGM0RDMTZFOEJEMTVFRUZDMzBENEQwMDg0In0=</string>
+			<key>timeStartedRecording</key>
+			<real>710863981.73398101</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C5F7CAC9-AA6E-479E-90A7-3C0529D7F3A0</string>
+		</dict>
+		<key>C65619A8-6289-4B0D-BBE1-8E56654610DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C65619A8-6289-4B0D-BBE1-8E56654610DC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -138,15 +698,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
 			<key>timeStartedRecording</key>
-			<real>709693854.13631904</real>
+			<real>710863981.73398101</real>
 			<key>timeStoppedRecording</key>
-			<real>709693863.43808603</real>
+			<real>63113904000</real>
 			<key>title</key>
 			<string>Build GitHubApp</string>
 			<key>uniqueIdentifier</key>
-			<string>DE3DFFA5-382E-40C2-A07C-30F6DEFD8BC4</string>
+			<string>C65619A8-6289-4B0D-BBE1-8E56654610DC</string>
 		</dict>
-		<key>EAEB86F6-E78C-4EF2-9E69-5BE0F4F1B1EA</key>
+		<key>CE6228DA-59D0-4A90-91AA-8C0DE87670E9</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -155,7 +715,147 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>EAEB86F6-E78C-4EF2-9E69-5BE0F4F1B1EA.xcactivitylog</string>
+			<string>CE6228DA-59D0-4A90-91AA-8C0DE87670E9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjdBRDBDNkRDREM5Q0VDOEEzQzdDMTBDN0ZFRTA3QkU2In0=</string>
+			<key>timeStartedRecording</key>
+			<real>710864042.54990602</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CE6228DA-59D0-4A90-91AA-8C0DE87670E9</string>
+		</dict>
+		<key>CF16E89A-015C-4F75-853D-F4325653411C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF16E89A-015C-4F75-853D-F4325653411C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7IndvcmtzcGFjZSI6e319fQ==</string>
+			<key>timeStartedRecording</key>
+			<real>710864042.54990602</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CF16E89A-015C-4F75-853D-F4325653411C</string>
+		</dict>
+		<key>D0582994-043D-4DE4-850B-E34BB0B77F0C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D0582994-043D-4DE4-850B-E34BB0B77F0C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjEyMTgwNEMzQzdGMEI3QUQ0ODE5QjhFRjIwMUVBMkQxIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>710864044.95426702</real>
+			<key>timeStoppedRecording</key>
+			<real>710864045.088745</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D0582994-043D-4DE4-850B-E34BB0B77F0C</string>
+		</dict>
+		<key>D367EDB6-4D3B-46E1-8F35-46A516BD8F44</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D367EDB6-4D3B-46E1-8F35-46A516BD8F44.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjQ2MjJCRkVGM0RDMTZFOEJEMTVFRUZDMzBENEQwMDg0In0=</string>
+			<key>timeStartedRecording</key>
+			<real>710864042.54990602</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D367EDB6-4D3B-46E1-8F35-46A516BD8F44</string>
+		</dict>
+		<key>D5494CE8-0D2C-4980-94C0-20181505CFEC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5494CE8-0D2C-4980-94C0-20181505CFEC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvRGVyaXZlZERhdGFcL0dpdEh1YkFwcFwvU291cmNlUGFja2FnZXNcL2NoZWNrb3V0c1wvU25hcEtpdCIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiU25hcEtpdCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>710864044.95426702</real>
+			<key>timeStoppedRecording</key>
+			<real>710864045.088745</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D5494CE8-0D2C-4980-94C0-20181505CFEC</string>
+		</dict>
+		<key>D5DFD245-435C-4E7E-A8A2-AEEA306A7AC2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5DFD245-435C-4E7E-A8A2-AEEA306A7AC2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -172,9 +872,9 @@
 			<key>title</key>
 			<string>Build GitHubApp</string>
 			<key>uniqueIdentifier</key>
-			<string>EAEB86F6-E78C-4EF2-9E69-5BE0F4F1B1EA</string>
+			<string>D5DFD245-435C-4E7E-A8A2-AEEA306A7AC2</string>
 		</dict>
-		<key>F39FDDD0-06A0-4691-8211-25678921C5EF</key>
+		<key>D70AD6F8-DA8D-49EE-BB75-98F2860414A9</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -183,7 +883,35 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>F39FDDD0-06A0-4691-8211-25678921C5EF.xcactivitylog</string>
+			<string>D70AD6F8-DA8D-49EE-BB75-98F2860414A9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjEyMTgwNEMzQzdGMEI3QUQ0ODE5QjhFRjIwMUVBMkQxIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>710864042.54990602</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D70AD6F8-DA8D-49EE-BB75-98F2860414A9</string>
+		</dict>
+		<key>DA080541-2469-4405-A7BC-BF5D2DAEAC74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DA080541-2469-4405-A7BC-BF5D2DAEAC74.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -200,9 +928,9 @@
 			<key>title</key>
 			<string>Build GitHubApp</string>
 			<key>uniqueIdentifier</key>
-			<string>F39FDDD0-06A0-4691-8211-25678921C5EF</string>
+			<string>DA080541-2469-4405-A7BC-BF5D2DAEAC74</string>
 		</dict>
-		<key>FE21A63D-1A63-47D7-A001-2E3258CB7060</key>
+		<key>E05D3657-1C7E-4338-9A80-339F33D25494</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -211,7 +939,63 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>FE21A63D-1A63-47D7-A001-2E3258CB7060.xcactivitylog</string>
+			<string>E05D3657-1C7E-4338-9A80-339F33D25494.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjQ2MjJCRkVGM0RDMTZFOEJEMTVFRUZDMzBENEQwMDg0In0=</string>
+			<key>timeStartedRecording</key>
+			<real>710864044.95426702</real>
+			<key>timeStoppedRecording</key>
+			<real>710864045.088745</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>E05D3657-1C7E-4338-9A80-339F33D25494</string>
+		</dict>
+		<key>EACCB181-846C-45E2-B8D0-ADD75E0C469B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EACCB181-846C-45E2-B8D0-ADD75E0C469B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>710863981.73398101</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>EACCB181-846C-45E2-B8D0-ADD75E0C469B</string>
+		</dict>
+		<key>F190E3A9-BF39-4DB5-B111-71CE09700934</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F190E3A9-BF39-4DB5-B111-71CE09700934.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -222,13 +1006,125 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IkVBOUVBNDNCM0I1MDM4MjNFRTM2QzYwRDlDOEE4NjVGIn0=</string>
 			<key>timeStartedRecording</key>
+			<real>710863981.73398101</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F190E3A9-BF39-4DB5-B111-71CE09700934</string>
+		</dict>
+		<key>F1DA3906-25A9-4420-9E3C-174930B707C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1DA3906-25A9-4420-9E3C-174930B707C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>710864042.54990602</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F1DA3906-25A9-4420-9E3C-174930B707C1</string>
+		</dict>
+		<key>F25678E9-569F-4584-B05C-7BE04DB25993</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F25678E9-569F-4584-B05C-7BE04DB25993.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjdBRDBDNkRDREM5Q0VDOEEzQzdDMTBDN0ZFRTA3QkU2In0=</string>
+			<key>timeStartedRecording</key>
 			<real>709693854.13631904</real>
 			<key>timeStoppedRecording</key>
 			<real>709693863.43808603</real>
 			<key>title</key>
 			<string>Build GitHubApp</string>
 			<key>uniqueIdentifier</key>
-			<string>FE21A63D-1A63-47D7-A001-2E3258CB7060</string>
+			<string>F25678E9-569F-4584-B05C-7BE04DB25993</string>
+		</dict>
+		<key>F3CEA164-E7DF-4EAD-AE12-BF2D24D917C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F3CEA164-E7DF-4EAD-AE12-BF2D24D917C5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvUG9kc1wvUG9kcy54Y29kZXByb2oiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IjdBRDBDNkRDREM5Q0VDOEEzQzdDMTBDN0ZFRTA3QkU2In0=</string>
+			<key>timeStartedRecording</key>
+			<real>710863981.73398101</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F3CEA164-E7DF-4EAD-AE12-BF2D24D917C5</string>
+		</dict>
+		<key>F63D78CC-3D48-4894-9E8A-0944F17BB029</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F63D78CC-3D48-4894-9E8A-0944F17BB029.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL0dpdEh1YkFwcFwvRGVyaXZlZERhdGFcL0dpdEh1YkFwcFwvU291cmNlUGFja2FnZXNcL2NoZWNrb3V0c1wvU25hcEtpdCIsImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiU25hcEtpdCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>710864006.88024402</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F63D78CC-3D48-4894-9E8A-0944F17BB029</string>
 		</dict>
 	</dict>
 </dict>

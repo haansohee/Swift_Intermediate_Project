@@ -293,6 +293,31 @@ SWIFT_CLASS("_TtC9GitHubApp11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class NSString;
+@class NSCoder;
+
+SWIFT_CLASS("_TtC9GitHubApp18RepositoryListCell")
+@interface RepositoryListCell : UITableViewCell
+- (void)layoutSubviews;
+- (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class UITableView;
+@class NSIndexPath;
+@class NSBundle;
+
+SWIFT_CLASS("_TtC9GitHubApp28RepositoryListViewController")
+@interface RepositoryListViewController : UITableViewController
+- (void)viewDidLoad;
+- (void)refresh;
+- (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
+- (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+- (nonnull instancetype)initWithStyle:(UITableViewStyle)style OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
 @class UIWindow;
 @class UIScene;
 
@@ -300,23 +325,7 @@ SWIFT_CLASS("_TtC9GitHubApp13SceneDelegate")
 @interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
 @property (nonatomic, strong) UIWindow * _Nullable window;
 - (void)scene:(UIScene * _Nonnull)scene willConnectToSession:(UISceneSession * _Nonnull)session options:(UISceneConnectionOptions * _Nonnull)connectionOptions;
-- (void)sceneDidDisconnect:(UIScene * _Nonnull)scene;
-- (void)sceneDidBecomeActive:(UIScene * _Nonnull)scene;
-- (void)sceneWillResignActive:(UIScene * _Nonnull)scene;
-- (void)sceneWillEnterForeground:(UIScene * _Nonnull)scene;
-- (void)sceneDidEnterBackground:(UIScene * _Nonnull)scene;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-@class NSString;
-@class NSBundle;
-@class NSCoder;
-
-SWIFT_CLASS("_TtC9GitHubApp14ViewController")
-@interface ViewController : UIViewController
-- (void)viewDidLoad;
-- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
 #endif

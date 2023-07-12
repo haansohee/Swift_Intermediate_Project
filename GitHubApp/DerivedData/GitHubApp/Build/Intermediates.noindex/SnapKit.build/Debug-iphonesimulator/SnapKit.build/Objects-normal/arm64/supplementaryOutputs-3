@@ -1,0 +1,25 @@
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift":
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.dia"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.swiftdeps"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide+Extensions.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide+Extensions.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide+Extensions.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide+Extensions.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift":
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.swiftdeps"
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.o"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintItem.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintItem.o"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintItem.swiftdeps"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintItem.d"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintItem.dia"
+"/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift":
+  object: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.o"
+  diagnostics: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.dia"
+  dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.d"
+  swift-dependencies: "/Users/hansohee/Xcode/Intermediate_Project/GitHubApp/DerivedData/GitHubApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.swiftdeps"

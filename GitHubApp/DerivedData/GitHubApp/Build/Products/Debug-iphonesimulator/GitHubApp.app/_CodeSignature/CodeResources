@@ -16,18 +16,6 @@
 		<data>
 		U0x8EM0781fCPb62BbZIXKeDlZ4=
 		</data>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
-		<data>
-		0ChpSGDCG9N4elOOMeCJUwfGlgw=
-		</data>
-		<key>Base.lproj/Main.storyboardc/Info.plist</key>
-		<data>
-		MDrKFvFWroTb0+KEbQShBcoBvo4=
-		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
-		<data>
-		H+HNGV7DPCnRjWzbypvsUTc73iE=
-		</data>
 		<key>Frameworks/RxCocoa.framework/Info.plist</key>
 		<data>
 		7yhhpFyuhOPSW/Rq11bSeGOcRyk=
@@ -66,7 +54,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		EysW+cKqKxj/+jzNuer+H4/epDg=
+		xCke0dOgOd1vGuhSofD81q+Smr8=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -94,27 +82,6 @@
 			<key>hash2</key>
 			<data>
 			cWq7q+iQcmpSoaFGecnyPdKFEPFwRD3slgUmxFADkVs=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xY+K+ZNJZzpIZza4mS2iIJ2dXIHrDKMQTSEpFWownbE=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PpvapAjR62rl6Ym4E6hkTgpKmBICxTaQXeUqcpHmmqQ=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QVjCIj9lvOJ+aC9S7YS/9/iPiRkVaPu7/Bu8U0I8FAM=
 			</data>
 		</dict>
 		<key>Frameworks/RxCocoa.framework/Info.plist</key>

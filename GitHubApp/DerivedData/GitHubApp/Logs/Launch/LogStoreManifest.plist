@@ -5,6 +5,52 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>5C028A52-0016-48A8-B354-1403480B0186</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8BC58E47-0C88-400C-A1FC-76F5F4A55BF2</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-GitHubApp-2023.07.12_23-14-04-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run GitHubApp</string>
+			<key>timeStartedRecording</key>
+			<real>710864044.95415902</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5C028A52-0016-48A8-B354-1403480B0186</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

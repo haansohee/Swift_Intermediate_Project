@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>36B8BD0B-6959-4DB8-B40F-0C9FA000353E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>36B8BD0B-6959-4DB8-B40F-0C9FA000353E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GitHubApp</string>
+			<key>timeStartedRecording</key>
+			<real>710864042.54990602</real>
+			<key>timeStoppedRecording</key>
+			<real>710864043.444888</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>36B8BD0B-6959-4DB8-B40F-0C9FA000353E</string>
+		</dict>
 		<key>387E0A09-ACA0-4A6A-A607-124BF50536F1</key>
 		<dict>
 			<key>className</key>
@@ -39,6 +73,108 @@
 			<string>Build GitHubApp</string>
 			<key>uniqueIdentifier</key>
 			<string>387E0A09-ACA0-4A6A-A607-124BF50536F1</string>
+		</dict>
+		<key>669B4258-9696-4DF0-92E4-41E8B967398D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>669B4258-9696-4DF0-92E4-41E8B967398D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GitHubApp</string>
+			<key>timeStartedRecording</key>
+			<real>710864006.88024402</real>
+			<key>timeStoppedRecording</key>
+			<real>710864008.00382805</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>669B4258-9696-4DF0-92E4-41E8B967398D</string>
+		</dict>
+		<key>6F18B923-BC95-4380-9D75-6B9B55DB42E1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6F18B923-BC95-4380-9D75-6B9B55DB42E1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GitHubApp</string>
+			<key>timeStartedRecording</key>
+			<real>710863981.73398101</real>
+			<key>timeStoppedRecording</key>
+			<real>710863987.07244802</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>6F18B923-BC95-4380-9D75-6B9B55DB42E1</string>
+		</dict>
+		<key>8BC58E47-0C88-400C-A1FC-76F5F4A55BF2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8BC58E47-0C88-400C-A1FC-76F5F4A55BF2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GitHubApp</string>
+			<key>timeStartedRecording</key>
+			<real>710864044.95426702</real>
+			<key>timeStoppedRecording</key>
+			<real>710864045.088745</real>
+			<key>title</key>
+			<string>Build GitHubApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8BC58E47-0C88-400C-A1FC-76F5F4A55BF2</string>
 		</dict>
 	</dict>
 </dict>
