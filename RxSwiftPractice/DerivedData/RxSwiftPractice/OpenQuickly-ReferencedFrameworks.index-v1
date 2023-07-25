@@ -3,15 +3,15 @@
 <plist version="1.0">
 <array>
 	<string>RxSwift</string>
-	<string>RxCocoa</string>
-	<string>Dispatch</string>
 	<string>RxRelay</string>
+	<string>Dispatch</string>
+	<string>RxCocoa</string>
 	<string>CoreGraphics</string>
 	<string>WebKit</string>
-	<string>FoundationNetworking</string>
 	<string>Glibc</string>
-	<string>Darwin</string>
+	<string>FoundationNetworking</string>
 	<string>Swift</string>
+	<string>Darwin</string>
 	<string>libkern</string>
 	<string>objc</string>
 	<string>Cocoa</string>
