@@ -32,6 +32,7 @@
 		F5871EEB2A4E9BCA00F65AE3 /* Subjects.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subjects.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F58721742A5D8DDB001986E9 /* TransformingOperator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TransformingOperator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F5A1F71A2A6DFB1200620CBD /* CombiningOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CombiningOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F5A1F71B2A6F8D1100620CBD /* TimeBasedOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TimeBasedOperators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F5DE5BB52A5C43840050DC2C /* FilteringOperator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FilteringOperator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F70459CE7069CA079A89BCF4 /* Pods-RxSwiftPractice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftPractice.debug.xcconfig"; path = "Target Support Files/Pods-RxSwiftPractice/Pods-RxSwiftPractice.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -68,6 +69,7 @@
 		F53025952A4D12B8004371A7 = {
 			isa = PBXGroup;
 			children = (
+				F5A1F71B2A6F8D1100620CBD /* TimeBasedOperators.playground */,
 				F5871EE92A4D131D00F65AE3 /* Observable.playground */,
 				F5871EEA2A4D4D2700F65AE3 /* Traits.playground */,
 				F5871EEB2A4E9BCA00F65AE3 /* Subjects.playground */,

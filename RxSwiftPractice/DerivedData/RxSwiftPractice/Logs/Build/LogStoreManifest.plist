@@ -244,6 +244,74 @@
 			<key>uniqueIdentifier</key>
 			<string>BFFD7056-919E-4EFE-A8AD-0D4329910DBB</string>
 		</dict>
+		<key>D130666D-2620-4EA4-ACFA-B04D379FDE8F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D130666D-2620-4EA4-ACFA-B04D379FDE8F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TimeBasedOperators (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build TimeBasedOperators (Playground) 2</string>
+			<key>timeStartedRecording</key>
+			<real>711953852.41366899</real>
+			<key>timeStoppedRecording</key>
+			<real>711953852.586393</real>
+			<key>title</key>
+			<string>Build TimeBasedOperators (Playground) 2</string>
+			<key>uniqueIdentifier</key>
+			<string>D130666D-2620-4EA4-ACFA-B04D379FDE8F</string>
+		</dict>
+		<key>FC124B98-844C-4759-9E59-1417631178AC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC124B98-844C-4759-9E59-1417631178AC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RxSwiftPractice Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TimeBasedOperators (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build TimeBasedOperators (Playground) 2</string>
+			<key>timeStartedRecording</key>
+			<real>711953682.39556801</real>
+			<key>timeStoppedRecording</key>
+			<real>711953687.93201303</real>
+			<key>title</key>
+			<string>Build TimeBasedOperators (Playground) 2</string>
+			<key>uniqueIdentifier</key>
+			<string>FC124B98-844C-4759-9E59-1417631178AC</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
