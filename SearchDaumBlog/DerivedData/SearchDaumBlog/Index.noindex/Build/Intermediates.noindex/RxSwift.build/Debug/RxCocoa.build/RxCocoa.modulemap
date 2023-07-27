@@ -1,0 +1,4 @@
+module RxCocoa {
+header "RxCocoa-Swift.h"
+export *
+}

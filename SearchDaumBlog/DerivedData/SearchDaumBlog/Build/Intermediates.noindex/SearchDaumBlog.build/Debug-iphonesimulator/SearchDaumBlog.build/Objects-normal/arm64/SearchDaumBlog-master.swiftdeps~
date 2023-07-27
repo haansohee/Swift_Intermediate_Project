@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "eb2c7844b1c7711eba5524f393260206ba522ec95b25c739272b91f2fbb7dca5"
+build_start_time: [1690334388, 749204000]
+build_end_time: [1690334388, 798951000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/AppDelegate.swift": !private [1690291709, 994989520]
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Entity/BlogListCellData.swift": !private [1690332894, 760800428]
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Presentation/BlogListCell.swift": !private [1690333988, 834585872]
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Presentation/BlogListView.swift": !private [1690334377, 691797584]
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Presentation/FilterView.swift": !private [1690332677, 53223360]
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Presentation/MainViewController.swift": !private [1690292386, 197246738]
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Presentation/SearchBar.swift": !private [1690293359, 72089539]
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/SceneDelegate.swift": !private [1690292198, 986832733]

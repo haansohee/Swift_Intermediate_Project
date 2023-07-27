@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "80740ce888b84c9418199c0d83c60aa83882c71b7f0bf371252f5edf2f4bb4b7"
+build_start_time: [1690291795, 940619000]
+build_end_time: [1690291796, 38903000]
+inputs:
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/RxSwift/Sources/RxRelay/BehaviorRelay.swift"
+  : [1690291765, 407346126]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/RxSwift/Sources/RxRelay/Observable+Bind.swift"
+  : [1690291765, 407516919]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/RxSwift/Sources/RxRelay/PublishRelay.swift"
+  : [1690291765, 407593794]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/RxSwift/Sources/RxRelay/ReplayRelay.swift"
+  : [1690291765, 407660003]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/RxSwift/Sources/RxRelay/Utils.swift"
+  : [1690291765, 407736420]

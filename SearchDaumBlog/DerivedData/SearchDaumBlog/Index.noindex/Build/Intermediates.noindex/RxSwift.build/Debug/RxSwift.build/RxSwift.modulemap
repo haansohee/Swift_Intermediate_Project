@@ -1,0 +1,4 @@
+module RxSwift {
+header "RxSwift-Swift.h"
+export *
+}

@@ -1,0 +1,4 @@
+module RxRelay {
+header "RxRelay-Swift.h"
+export *
+}

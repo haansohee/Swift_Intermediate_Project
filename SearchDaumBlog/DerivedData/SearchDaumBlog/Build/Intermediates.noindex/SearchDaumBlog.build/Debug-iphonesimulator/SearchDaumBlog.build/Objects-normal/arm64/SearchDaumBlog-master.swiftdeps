@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "eb2c7844b1c7711eba5524f393260206ba522ec95b25c739272b91f2fbb7dca5"
+build_start_time: [1690425201, 337916000]
+build_end_time: [1690425202, 315282000]
+inputs:
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/AppDelegate.swift": [1690291709, 994989520]
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Entity/AlertACtionConvertible.swift": [1690335260, 401632207]
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Entity/BlogListCellData.swift": [1690332894, 760800428]
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Entity/DKBlog.swift": [1690424490, 923531924]
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Network/SearchBlogAPI.swift": [1690423732, 403600841]
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Network/SearchBlogNetwork.swift": [1690424487, 799523704]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Presentation/MainViewController/MainViewController.swift"
+  : [1690425194, 325657954]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Presentation/MainViewController/SubComponents/BlogListView/BlogListView.swift"
+  : [1690334423, 187292972]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Presentation/MainViewController/SubComponents/BlogListView/SubComponents/BlogListCell.swift"
+  : [1690333988, 834585872]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Presentation/MainViewController/SubComponents/BlogListView/SubComponents/FilterView.swift"
+  : [1690332677, 53223360]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/Presentation/MainViewController/SubComponents/SearchBar/SearchBar.swift"
+  : [1690337036, 928286343]
+  "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/SearchDaumBlog/SceneDelegate.swift": [1690292198, 986832733]

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4E383AA3-5C14-4E43-A2BA-6ECE37640C19</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4E383AA3-5C14-4E43-A2BA-6ECE37640C19.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>711983455.46995997</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build TimeBasedOperators (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>4E383AA3-5C14-4E43-A2BA-6ECE37640C19</string>
+		</dict>
+		<key>9B48DB58-DBFE-4710-A204-C8B24FA00671</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9B48DB58-DBFE-4710-A204-C8B24FA00671.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL1J4U3dpZnRQcmFjdGljZVwvVGltZUJhc2VkT3BlcmF0b3JzLnBsYXlncm91bmQiLCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IlBMQVlHUk9VTkQtVEFSR0VUOlwvVXNlcnNcL2hhbnNvaGVlXC9YY29kZVwvSW50ZXJtZWRpYXRlX1Byb2plY3RcL1J4U3dpZnRQcmFjdGljZVwvVGltZUJhc2VkT3BlcmF0b3JzLnBsYXlncm91bmQifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>711983455.46995997</real>
+			<key>timeStoppedRecording</key>
+			<real>711983456.15581405</real>
+			<key>title</key>
+			<string>Build TimeBasedOperators (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>9B48DB58-DBFE-4710-A204-C8B24FA00671</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

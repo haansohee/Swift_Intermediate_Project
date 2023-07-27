@@ -1,0 +1,127 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "0730e33ea1fdbd1a85788f38d49d15f73b2486e05174d71a06bfe4254df62775"
+build_start_time: [1690291895, 635428000]
+build_end_time: [1690291895, 946272000]
+inputs:
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Cache/CacheSerializer.swift"
+  : [1690291825, 365038848]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Cache/DiskStorage.swift"
+  : [1690291825, 365165391]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Cache/FormatIndicatedCacheSerializer.swift"
+  : [1690291825, 365255599]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Cache/ImageCache.swift"
+  : [1690291825, 365415059]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Cache/MemoryStorage.swift"
+  : [1690291825, 365531559]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Cache/Storage.swift"
+  : [1690291825, 365612352]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Extensions/CPListItem+Kingfisher.swift"
+  : [1690291825, 365771019]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Extensions/ImageView+Kingfisher.swift"
+  : [1690291825, 365896811]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSButton+Kingfisher.swift"
+  : [1690291825, 365990812]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSTextAttachment+Kingfisher.swift"
+  : [1690291825, 366075312]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Extensions/TVMonogramView+Kingfisher.swift"
+  : [1690291825, 366153313]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Extensions/UIButton+Kingfisher.swift"
+  : [1690291825, 366239355]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Extensions/WKInterfaceImage+Kingfisher.swift"
+  : [1690291825, 366325439]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/AVAssetImageDataProvider.swift"
+  : [1690291825, 366479106]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/ImageDataProvider.swift"
+  : [1690291825, 366580232]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Resource.swift"
+  : [1690291825, 366671024]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Source.swift"
+  : [1690291825, 366743650]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/General/KF.swift"
+  : [1690291825, 366935776]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/General/KFOptionsSetter.swift"
+  : [1690291825, 367094443]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/General/Kingfisher.swift"
+  : [1690291825, 367207777]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherError.swift"
+  : [1690291825, 367329278]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherManager.swift"
+  : [1690291825, 367483237]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherOptionsInfo.swift"
+  : [1690291825, 367734614]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Image/Filter.swift"
+  : [1690291825, 367870823]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Image/GIFAnimatedImage.swift"
+  : [1690291825, 367962990]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Image/GraphicsContext.swift"
+  : [1690291825, 368035324]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Image/Image.swift"
+  : [1690291825, 368141741]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageDrawing.swift"
+  : [1690291825, 368264075]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageFormat.swift"
+  : [1690291825, 368356034]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProcessor.swift"
+  : [1690291825, 368555202]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProgressive.swift"
+  : [1690291825, 368777994]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageTransition.swift"
+  : [1690291825, 368889162]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Image/Placeholder.swift"
+  : [1690291825, 368987412]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Networking/AuthenticationChallengeResponsable.swift"
+  : [1690291825, 369496582]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDataProcessor.swift"
+  : [1690291825, 369588916]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloader.swift"
+  : [1690291825, 370527005]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloaderDelegate.swift"
+  : [1690291825, 370647047]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageModifier.swift"
+  : [1690291825, 370782173]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImagePrefetcher.swift"
+  : [1690291825, 371238634]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Networking/RedirectHandler.swift"
+  : [1690291825, 371397301]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Networking/RequestModifier.swift"
+  : [1690291825, 371482552]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Networking/RetryStrategy.swift"
+  : [1690291825, 371571052]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDataTask.swift"
+  : [1690291825, 371653594]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDelegate.swift"
+  : [1690291825, 371752137]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageBinder.swift"
+  : [1690291825, 372009763]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageContext.swift"
+  : [1690291825, 372103222]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFAnimatedImage.swift"
+  : [1690291825, 372204806]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImage.swift"
+  : [1690291825, 372275973]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageOptions.swift"
+  : [1690291825, 372369890]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageProtocol.swift"
+  : [1690291825, 372455432]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageRenderer.swift"
+  : [1690291825, 372534308]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Utility/Box.swift"
+  : [1690291825, 372694809]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Utility/CallbackQueue.swift"
+  : [1690291825, 372782726]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Utility/Delegate.swift"
+  : [1690291825, 372852851]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Utility/ExtensionHelpers.swift"
+  : [1690291825, 372926643]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Utility/Result.swift"
+  : [1690291825, 373008477]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Utility/Runtime.swift"
+  : [1690291825, 373081769]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Utility/SizeExtensions.swift"
+  : [1690291825, 373153520]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Utility/String+MD5.swift"
+  : [1690291825, 373259187]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Views/AnimatedImageView.swift"
+  : [1690291825, 373429480]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/Kingfisher/Sources/Views/Indicator.swift"
+  : [1690291825, 373524980]

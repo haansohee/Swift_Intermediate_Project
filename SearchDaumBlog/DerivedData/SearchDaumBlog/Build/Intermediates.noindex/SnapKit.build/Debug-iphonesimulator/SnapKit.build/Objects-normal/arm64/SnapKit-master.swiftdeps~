@@ -1,0 +1,79 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "61dbe3990876eb0fd15abd851be972b061536c1c5b3bb989dc60858b6b6417c6"
+build_start_time: [1690334379, 158130000]
+build_end_time: [1690334379, 212957000]
+inputs:
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/Constraint.swift"
+  : !private [1690291843, 73929610]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintAttributes.swift"
+  : !private [1690291843, 74027069]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintConfig.swift"
+  : !private [1690291843, 74117695]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift"
+  : !private [1690291843, 74210570]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintDSL.swift"
+  : !private [1690291843, 74303154]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintDescription.swift"
+  : !private [1690291843, 74388071]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift"
+  : !private [1690291843, 74451947]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift"
+  : !private [1690291843, 74518280]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift"
+  : !private [1690291843, 74577364]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsets.swift"
+  : !private [1690291843, 74648489]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintItem.swift"
+  : !private [1690291843, 74735323]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift"
+  : !private [1690291843, 74809407]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift"
+  : !private [1690291843, 74871116]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift"
+  : !private [1690291843, 75033492]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift"
+  : !private [1690291843, 75097200]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift"
+  : !private [1690291843, 75152826]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintMaker.swift"
+  : !private [1690291843, 75218409]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift"
+  : !private [1690291843, 75290827]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift"
+  : !private [1690291843, 75358244]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift"
+  : !private [1690291843, 75425494]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift"
+  : !private [1690291843, 75502036]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift"
+  : !private [1690291843, 75590078]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift"
+  : !private [1690291843, 75664329]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift"
+  : !private [1690291843, 75724662]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift"
+  : !private [1690291843, 75779538]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriority.swift"
+  : !private [1690291843, 75839538]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift"
+  : !private [1690291843, 75896288]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift"
+  : !private [1690291843, 75952789]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelation.swift"
+  : !private [1690291843, 76021456]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift"
+  : !private [1690291843, 76105664]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintView.swift"
+  : !private [1690291843, 76155206]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/ConstraintViewDSL.swift"
+  : !private [1690291843, 76227832]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/Debugging.swift"
+  : !private [1690291843, 76295874]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraint.swift"
+  : !private [1690291843, 76368249]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraintItem.swift"
+  : !private [1690291843, 76446666]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/Typealiases.swift"
+  : !private [1690291843, 76497167]
+  ? "/Users/hansohee/Xcode/Intermediate_Project/SearchDaumBlog/DerivedData/SearchDaumBlog/SourcePackages/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift"
+  : !private [1690291843, 76545917]

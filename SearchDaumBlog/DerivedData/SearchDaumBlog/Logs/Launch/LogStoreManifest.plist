@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>F3ACB1EB-E770-4B60-A9E8-CEAA3C2FDCBC</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>857703B8-C1A2-4EE8-B983-1073F0381A1D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-SearchDaumBlog-2023.07.26_11-03-56-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SearchDaumBlog project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SearchDaumBlog</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SearchDaumBlog</string>
+			<key>timeStartedRecording</key>
+			<real>712029836.93157196</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run SearchDaumBlog</string>
+			<key>uniqueIdentifier</key>
+			<string>F3ACB1EB-E770-4B60-A9E8-CEAA3C2FDCBC</string>
+		</dict>
+		<key>FE78A583-6526-4D7E-96EB-F4FD4D7B5C6F</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>14596F97-5D7D-444D-99B3-F0DBFB616CDD</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-SearchDaumBlog-2023.07.27_11-33-24-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SearchDaumBlog project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SearchDaumBlog</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SearchDaumBlog</string>
+			<key>timeStartedRecording</key>
+			<real>712118004.81622696</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run SearchDaumBlog</string>
+			<key>uniqueIdentifier</key>
+			<string>FE78A583-6526-4D7E-96EB-F4FD4D7B5C6F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
