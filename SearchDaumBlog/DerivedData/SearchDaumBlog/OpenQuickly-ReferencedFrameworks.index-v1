@@ -11,10 +11,10 @@
 	<string>objc</string>
 	<string>RxBlocking</string>
 	<string>Accelerate</string>
+	<string>SnapKit</string>
 	<string>RxDataSources</string>
 	<string>MobileCoreServices</string>
 	<string>CoreFoundation</string>
-	<string>SnapKit</string>
 	<string>CoreData</string>
 	<string>CoreImage</string>
 	<string>CoreServices</string>
@@ -26,25 +26,25 @@
 	<string>Glibc</string>
 	<string>SwiftUI</string>
 	<string>libkern</string>
-	<string>Kingfisher</string>
 	<string>doesn</string>
-	<string>WebKit</string>
 	<string>AVKit</string>
-	<string>FoundationNetworking</string>
+	<string>WebKit</string>
+	<string>Kingfisher</string>
+	<string>PackageDescription</string>
 	<string>RxTest</string>
 	<string>RxExample</string>
 	<string>Dispatch</string>
 	<string>XCTest</string>
 	<string>Foundation</string>
 	<string>WatchKit</string>
-	<string>PackageDescription</string>
+	<string>FoundationNetworking</string>
 	<string>AppKit</string>
 	<string>RxRelay</string>
 	<string>Combine</string>
 	<string>Swift</string>
 	<string>SystemConfiguration</string>
 	<string>CoreGraphics</string>
-	<string>CarPlay</string>
 	<string>UIKit</string>
+	<string>CarPlay</string>
 </array>
 </plist>

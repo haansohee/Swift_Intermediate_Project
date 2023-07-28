@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+RxSwift in RxSwift, no dependencies
+RxBlocking in RxSwift, depends on:
+RxSwift in RxSwift (explicit)
